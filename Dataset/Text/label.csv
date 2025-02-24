@@ -1,0 +1,3695 @@
+ID,VIDEO,LABEL
+1,D0001N.mp4,địa chỉ
+1,D0001T.mp4,địa chỉ
+3,D0001B.mp4,địa chỉ
+4,D0002.mp4,tỉnh
+5,D0004.mp4,nhân viên
+6,D0003.mp4,tiếp tân
+7,D0005B.mp4,Miến Điện (nước Mi-an-ma)
+8,D0006.mp4,Ma Cao
+9,D0007.mp4,Do Thái
+10,D0008.mp4,Ả Rập (nước Ả Rập)
+11,D0009.mp4,phương Tây
+12,D0010.mp4,phương Đông
+13,D0011.mp4,Đu Bai (nước Đu Bai)
+14,D0012.mp4,Albania (nước Albania)
+15,D0014.mp4,nhập khẩu
+16,D0015.mp4,Tuy Hoà
+17,D0016.mp4,Quy Nhơn
+18,D0017.mp4,hấp dẫn
+19,D0018.mp4,nổi da gà
+20,D0019B.mp4,ghen tị
+21,D0019N.mp4,ghen tị
+22,D0019T.mp4,ghen tị
+23,D0020B.mp4,lung tung
+24,D0020N.mp4,lung tung
+25,D0022.mp4,cười nhếch mép
+26,D0020T.mp4,lung tung
+27,D0023.mp4,cười vỡ bụng
+28,D0024N.mp4,tham ăn
+28,D0024B.mp4,tham ăn
+30,D0024T.mp4,tham ăn
+31,D0028.mp4,đứng đầu (hàng đầu)
+32,D0029B.mp4,thói quen
+33,D0029N.mp4,thói quen
+34,D0029T.mp4,thói quen
+35,D0030.mp4,khuyến khích
+36,D0031B.mp4,không nghe lời
+37,D0031N.mp4,không nghe lời
+38,D0031T.mp4,không nghe lời
+39,D0032.mp4,ai cho
+40,D0033B.mp4,không cho
+41,D0033T.mp4,không cho
+42,D0034.mp4,không cần
+43,D0033N.mp4,không cho
+44,D0035B.mp4,không nên
+45,D0035N.mp4,không nên
+46,D0035T.mp4,không nên
+47,D0036.mp4,bực mình
+48,D0038.mp4,mù chữ
+49,D0039.mp4,vô tình
+50,D0040B.mp4,Tết hàn thực
+51,D0040N.mp4,Tết hàn thực
+52,D0040T.mp4,Tết hàn thực
+53,D0041.mp4,giỗ
+54,D0042B.mp4,ngày Quốc tế phụ nữ 8/3
+55,D0042N.mp4,ngày Quốc tế phụ nữ 8/3
+56,D0042T.mp4,ngày Quốc tế phụ nữ 8/3
+57,D0043B.mp4,ngày giải phóng thủ đô 10/10
+58,D0043T.mp4,ngày giải phóng thủ đô 10/10
+59,D0044B.mp4,ngày Giải phóng miền Nam 30/4
+60,D0044N.mp4,ngày Giải phóng miền Nam 30/4
+61,D0045B.mp4,ngày Người khuyết tật Việt Nam 18/4
+62,D0045T.mp4,ngày Người khuyết tật Việt Nam 18/4
+63,D0046B.mp4,ngày Người khuyết tật Thế giới 3/12
+64,D0046N.mp4,ngày Người khuyết tật Thế giới 3/12
+65,D0046T.mp4,ngày Người khuyết tật Thế giới 3/12
+66,D0048B.mp4,lễ Halloween 31/10
+67,D0048N.mp4,lễ Halloween 31/10
+68,D0049B.mp4,ngày Phụ nữ Việt Nam 20/10
+68,D0048T.mp4,lễ Halloween 31/10
+70,D0049T.mp4,ngày Phụ nữ Việt Nam 20/10
+71,D0050B.mp4,ngày thương bình liệt sĩ 27/7
+72,D0050N.mp4,ngày thương bình liệt sĩ 27/7
+73,D0050T.mp4,ngày thương bình liệt sĩ 27/7
+74,D0051B.mp4,ngày giỗ tổ Hùng Vương (âm lịch 10/3)
+75,D0051N.mp4,ngày giỗ tổ Hùng Vương (âm lịch 10/3)
+76,D0051T.mp4,ngày giỗ tổ Hùng Vương (âm lịch 10/3)
+77,D0052B.mp4,ngày Ngôn ngữ kí hiệu Quốc tế 23/9
+78,D0053N.mp4,tuần lễ người Điếc thế giới
+79,D0053T.mp4,tuần lễ người Điếc thế giới
+80,D0054B.mp4,ngày của Mẹ
+81,D0054N.mp4,ngày của Mẹ
+82,D0054T.mp4,ngày của Mẹ
+83,D0055B.mp4,ngày của Cha
+84,D0055N.mp4,ngày của Cha
+85,D0055T.mp4,ngày của Cha
+86,D0056B.mp4,ngày gia đình Việt Nam 28/6
+87,D0056N.mp4,ngày gia đình Việt Nam 28/6
+88,D0056T.mp4,ngày gia đình Việt Nam 28/6
+89,D0057B.mp4,ngày thầy thuốc Việt Nam
+90,D0057N.mp4,ngày thầy thuốc Việt Nam
+91,D0058B.mp4,ngày thành lập quân đội nhân dân Việt Nam
+92,D0058N.mp4,ngày thành lập quân đội nhân dân Việt Nam
+93,D0058T.mp4,ngày thành lập quân đội nhân dân Việt Nam
+94,D0059.mp4,con cá sấu
+95,D0060B.mp4,nhầm
+96,D0060N.mp4,nhầm
+97,D0060T.mp4,nhầm
+98,D0061.mp4,đồng bằng sông Cửu Long
+99,D0062.mp4,đồng bằng sông Hồng
+100,D0064.mp4,buồn thảm
+101,D0065B.mp4,mách
+102,D0065N.mp4,mách
+103,D0065T.mp4,mách
+104,D0066B.mp4,vô duyên
+105,D0066N.mp4,vô duyên
+106,D0066T.mp4,vô duyên
+107,D0068.mp4,kịp thời
+108,D0070.mp4,hú vía
+109,D0071.mp4,suỵt
+110,D0072N.mp4,suýt
+111,D0072T.mp4,suýt
+112,D0073.mp4,cá voi
+113,D0075.mp4,đuôi cá
+114,D0077T.mp4,bít tết (bò)
+115,D0078.mp4,súp
+116,D0079.mp4,súp lơ
+117,D0080B.mp4,mỳ tôm
+118,D0080N.mp4,mỳ tôm
+119,D0080T.mp4,mỳ tôm
+120,D0081B.mp4,mỳ vằn thắn
+121,D0082B.mp4,mỳ ý
+122,D0082N.mp4,mỳ ý
+123,D0083.mp4,bún mắm
+124,D0084.mp4,bún chả
+125,D0085.mp4,bún ngan
+126,D0086.mp4,bún ốc
+127,D0087B.mp4,bún đậu
+128,D0088.mp4,xôi gấc
+129,D0089.mp4,xôi gà
+130,D0090.mp4,cháo sườn
+131,D0091.mp4,cơm rang
+132,D0092.mp4,nhấn mạnh
+133,D0095.mp4,cắm trại
+134,D0096.mp4,khả năng
+135,D0098.mp4,có … không?
+136,D0099.mp4,cung cấp
+137,D0100.mp4,khờ dại
+138,D0103B.mp4,từ chối
+139,D0103N.mp4,từ chối
+140,D0103T.mp4,từ chối
+141,D0104.mp4,nấu nướng
+142,D0105.mp4,xoa đầu
+143,D0107.mp4,rực rỡ
+144,D0108B.mp4,thiệp sinh nhật
+145,D0108N.mp4,thiệp sinh nhật
+146,D0109B.mp4,không quen
+147,D0109N.mp4,không quen
+148,D0109T.mp4,không quen
+149,D0111B.mp4,tương ớt
+150,D0111N.mp4,tương ớt
+151,D0111T.mp4,tương ớt
+152,D0112.mp4,không có
+153,D0113.mp4,không có chi
+154,D0114.mp4,dân chủ
+155,D0115.mp4,xử lý
+156,D0117.mp4,tinh mắt
+157,D0118.mp4,cũng vậy/cũng thế
+158,D0119T.mp4,đúng không?
+159,D0120B.mp4,phải không?
+160,D0120N.mp4,phải không?
+161,D0120T.mp4,phải không?
+162,D0121.mp4,còn bạn?
+163,D0122T.mp4,cần không?
+164,D0123B.mp4,nên không?
+165,D0123N.mp4,nên không?
+166,D0123T.mp4,nên không?
+167,D0125.mp4,nóng tính
+168,D0127.mp4,căm thù
+169,D0128B.mp4,đẹp không? (người)
+170,D0128N.mp4,đẹp không? (người)
+171,D0128T.mp4,đẹp không? (người)
+172,D0129B.mp4,không đẹp
+173,D0129N.mp4,không đẹp
+174,D0129T.mp4,không đẹp
+175,D0130.mp4,chúng tôi (2 người) (đại từ)
+176,D0131.mp4,chúng tôi (3 người) (đại từ)
+177,D0132.mp4,chúng tôi (4 người) (đại từ)
+178,D0134.mp4,chúng tôi (đại từ)
+179,D0136.mp4,họ (2 người) (đại từ)
+180,D0137.mp4,họ (đại từ)
+181,D0139.mp4,tôi yêu bạn ấy
+182,D0140.mp4,bạn ấy yêu tôi
+183,D0141.mp4,bạn yêu bạn ấy
+184,D0142.mp4,bạn ấy yêu bạn
+185,D0143B.mp4,"anh hai, anh cả"
+186,D0143N.mp4,"anh hai, anh cả"
+187,D0143T.mp4,"anh hai, anh cả"
+188,D0144N.mp4,"chị hai, chị cả"
+189,D0144T.mp4,"chị hai, chị cả"
+190,D0145.mp4,quả bầu hồ lô
+191,D0146.mp4,một là
+192,D0147.mp4,hai là
+193,D0148.mp4,ba là
+194,D0149.mp4,bốn là
+195,D0150.mp4,năm là
+196,D0151B.mp4,ông bà
+197,D0151N.mp4,ông bà
+198,D0151T.mp4,ông bà
+199,D0152B.mp4,chị họ
+200,D0152N.mp4,chị họ
+201,D0152T.mp4,chị họ
+202,D0153T.mp4,em họ
+203,D0154B.mp4,cháu họ
+204,D0154N.mp4,cháu họ
+205,D0154T.mp4,cháu họ
+206,D0155B.mp4,sống sót
+207,D0156.mp4,thường xuyên
+208,D0156B.mp4,thường xuyên
+209,D0156T.mp4,thường xuyên
+210,D0157B.mp4,đi dạo
+211,D0157N.mp4,đi dạo
+212,D0157T.mp4,đi dạo
+213,D0158N.mp4,về (Sài Gòn)
+214,D0159B.mp4,về 2 (Miền Bắc)
+215,D0159T.mp4,về 2 (Miền Bắc)
+216,D0161.mp4,về 4 (từ nơi khác về)
+217,D0162.mp4,về 5 (về nhà)
+218,D0163N.mp4,hẹn
+219,D0164.mp4,quyến luyến
+220,D0165B.mp4,hứa
+221,D0165N.mp4,hứa
+222,D0165T.mp4,hứa
+223,D0166.mp4,cùng / với (giới từ)
+224,D0167.mp4,lâu
+225,D0167B.mp4,lâu
+226,D0168B.mp4,vẫn
+227,D0168N.mp4,vẫn
+228,D0168T.mp4,vẫn
+229,D0169B.mp4,mỗi ngày
+230,D0169N.mp4,mỗi ngày
+231,D0169T.mp4,mỗi ngày
+232,D0170B.mp4,hàng ngày
+233,D0170N.mp4,hàng ngày
+234,D0172.mp4,ăn vú sữa
+235,D0173.mp4,hôi
+236,D0174.mp4,trông nhà
+237,D0175.mp4,chạy (động vật)
+238,D0176.mp4,xe container
+239,D0177.mp4,bay nhanh (máy bay)
+240,D0178.mp4,chậm chạp
+241,D0179.mp4,ngừng lại
+242,D0180.mp4,5 > 3 (Toán học)
+243,D0181.mp4,2 < 6 (Toán học)
+244,D0182B.mp4,cung điện
+245,D0182N.mp4,cung điện
+246,D0182T.mp4,cung điện
+247,D0183.mp4,dừng lại
+248,D0184.mp4,một ít/ một chút
+249,D0185.mp4,kẹt xe/tắc đường
+250,D0187.mp4,thì thầm
+251,D0188N.mp4,hoặc
+252,D0188T.mp4,hoặc
+253,D0189B.mp4,muốn không?
+254,D0189N.mp4,muốn không?
+255,D0189T.mp4,muốn không?
+256,D0190B.mp4,không muốn
+257,D0190N.mp4,không muốn
+258,D0191.mp4,sa mạc
+259,D0192B.mp4,xem
+260,D0192N.mp4,xem
+261,D0193.mp4,núi cao
+262,D0194.mp4,núi thấp
+263,D0195B.mp4,đẹp không?
+264,D0195N.mp4,đẹp không?
+265,D0195T.mp4,đẹp không?
+266,D0196.mp4,xem đã
+267,D0197.mp4,mồ hôi nhễ nhại
+268,D0198.mp4,không ngon
+269,D0199.mp4,hài lòng
+270,D0200.mp4,má hồng
+271,D0201.mp4,ngập ngừng
+272,D0202.mp4,nói ngập ngừng
+273,D0203.mp4,Võ Thị Sáu
+274,D0204.mp4,mít tinh
+275,D0205.mp4,sụp đổ
+276,D0206B.mp4,thiếu thốn
+277,D0206N.mp4,thiếu thốn
+278,D0206T.mp4,thiếu thốn
+279,D0207.mp4,xuyên Việt
+280,D0208.mp4,khổ công
+281,D0209N.mp4,dám làm
+282,D0209T.mp4,dám làm
+283,D0210B.mp4,không dám
+284,D0210N.mp4,không dám
+285,D0210T.mp4,không dám
+286,D0211.mp4,phiền hà
+287,D0212.mp4,đèn ông sao
+288,D0213T.mp4,ung thư
+289,D0214B.mp4,phó hiệu trưởng
+290,D0214N.mp4,phó hiệu trưởng
+291,D0214T.mp4,phó hiệu trưởng
+292,D0215.mp4,Ô-lim-píc
+293,D0217.mp4,hữu nghị
+294,D0218.mp4,bắn cung tên
+295,D0219.mp4,mũi tên
+296,D0220.mp4,cung tên
+297,D0222.mp4,nứt nẻ (ruộng)
+298,D0223B.mp4,Mã Lai (nước Ma-lai-xi-a)
+299,D0223N.mp4,Mã Lai (nước Ma-lai-xi-a)
+300,D0223T.mp4,Mã Lai (nước Ma-lai-xi-a)
+301,D0224.mp4,số La Mã (Toán học)
+302,D0225.mp4,Long Vương
+303,D0227.mp4,phân vân
+304,D0229.mp4,chó cắn
+305,D0230.mp4,mèo cào
+306,D0233.mp4,quan (chức vụ)
+307,D0234.mp4,đi tuần
+308,D0235.mp4,vỗ về
+309,D0236.mp4,hốt hoảng
+310,D0237.mp4,chuyện nhỏ
+311,D0238.mp4,chuyện lớn
+312,D0239.mp4,cái gùi
+313,D0240.mp4,hùng vĩ
+314,D0241.mp4,bất khuất
+315,D0242B.mp4,nhưng
+316,D0242N.mp4,nhưng
+317,D0242T.mp4,nhưng
+318,D0243B.mp4,hay là (hoặc là)
+319,D0243N.mp4,hay là (hoặc là)
+320,D0243T.mp4,hay là (hoặc là)
+321,D0244.mp4,Thăng Long
+322,D0245.mp4,dãy núi Hoàng Liên Sơn
+323,D0247.mp4,gấp đôi
+324,D0248.mp4,gấp ba
+325,D0249B.mp4,chia đôi
+326,D0249N.mp4,chia đôi
+327,D0249T.mp4,chia đôi
+328,D0250B.mp4,chia ba
+329,D0250N.mp4,chia ba
+330,D0250T.mp4,chia ba
+331,D0251.mp4,"đi lạc (đường, rừng..)"
+332,D0252.mp4,mất (chết) (chỉ người)
+333,D0253.mp4,đại sứ
+334,D0255.mp4,giám sát
+335,D0256.mp4,quan sát
+336,D0257.mp4,ăn vụng
+337,D0258.mp4,xảy ra
+338,D0259.mp4,dự án
+339,D0260.mp4,đầu tư
+340,D0261.mp4,năn nỉ
+341,D0263.mp4,rắc rối
+342,D0264.mp4,tải về
+343,D0265.mp4,nhõng nhẽo
+344,D0266.mp4,hên/gặp may
+345,D0267B.mp4,đen đủi
+346,D0268N.mp4,xui xẻo
+347,D0269.mp4,long lanh (mắt)
+348,D0270N.mp4,lạnh lùng
+349,D0270T.mp4,lạnh lùng
+350,D0271B.mp4,dỗi
+351,D0271N.mp4,dỗi
+352,D0272B.mp4,liếc nhìn
+353,D0272N.mp4,liếc nhìn
+354,D0272T.mp4,liếc nhìn
+355,D0273.mp4,nhổ tóc
+356,D0275.mp4,nhổ lông mày
+357,D0276.mp4,cắt lông mũi
+358,D0278.mp4,răng hô
+359,D0279.mp4,răng khểnh
+360,D0280.mp4,kháu khỉnh
+361,D0281.mp4,mọc tóc
+362,D0282.mp4,mọc râu
+363,D0284.mp4,Cô vy (covid)
+364,D0285.mp4,Cố đô Huế
+365,D0286.mp4,cách ly
+366,D0287.mp4,giãn cách xã hội
+367,D0289.mp4,ria mép
+368,D0290.mp4,trong khoảng
+369,D0293.mp4,nhảy lò cò
+370,D0295.mp4,hội thoại
+371,D0296.mp4,lý do
+372,D0297.mp4,lớn hơn 1 (Toán học)
+373,D0298.mp4,lớn hơn 2 (Toán học)
+374,D0299.mp4,2 < 5 (Toán học)
+375,D0300.mp4,tỉnh táo
+376,D0301.mp4,nhộn nhịp (đông người)
+377,D0302.mp4,áo kẻ sọc
+378,D0303.mp4,đất nước bị chia cắt (Việt Nam)
+379,D0304.mp4,thống nhất đất nước
+380,D0305.mp4,khoáng sản
+381,D0306.mp4,thương mại
+382,D0307B.mp4,công nghiệp
+383,D0307T.mp4,công nghiệp
+384,D0308.mp4,dân tộc Chăm
+385,D0309.mp4,dân tộc Mường
+386,D0310.mp4,dân tộc Khơ me
+387,D0311.mp4,dân tộc Thái
+388,D0312.mp4,dân tộc Mông
+389,D0313.mp4,nhà rông
+390,D0314.mp4,lãng phí
+391,D0315.mp4,tiến bộ
+391,D0316.mp4,Lượm
+393,D0317.mp4,cứu sống
+394,D0320.mp4,cảng Sài Gòn
+395,D0321.mp4,kim cương
+396,D0323.mp4,không bình đẳng
+397,D0324.mp4,đùm bọc
+397,D0325.mp4,khởi nghiệp
+399,D0326B.mp4,vải lụa
+399,D0326N.mp4,vải lụa
+401,D0326T.mp4,vải lụa
+401,D0327.mp4,lượt đi
+403,D0328.mp4,lượt về (trong thể thao)
+403,D0329.mp4,rau diếp cá
+405,D0331.mp4,thao thức
+406,D0330.mp4,rau ngò/rau mùi
+407,D0332.mp4,thâm quầng mắt
+407,D0333.mp4,tự hào
+409,D0334.mp4,quyên góp
+410,D0335.mp4,chia rẽ
+411,D0336.mp4,tự trọng
+412,D0337.mp4,gian dối
+413,D0338.mp4,ăn bám
+414,D0339.mp4,tuyên truyền
+415,D0340.mp4,thịnh vượng
+416,D0341.mp4,lấm lem
+417,D0342B.mp4,ham chơi
+418,D0342T.mp4,ham chơi
+419,D0343.mp4,đánh cầu lông
+420,D0344.mp4,cánh buồm
+421,D0345.mp4,cầu Thê Húc (Hồ Gươm)
+422,D0346B.mp4,da trắng
+423,D0346N.mp4,da trắng
+424,D0346T.mp4,da trắng
+425,D0347N.mp4,da ngăm (nước da ngăm đen)
+426,D0347T.mp4,da ngăm (nước da ngăm đen)
+427,D0348.mp4,tuần trăng mật
+428,D0349.mp4,năm tới
+429,D0350.mp4,Hoãn
+430,D0351.mp4,huỷ
+431,D0352.mp4,phụ thuộc
+432,D0354.mp4,tẩy chay
+433,D0355.mp4,đau mắt
+434,D0356.mp4,đau bụng
+435,D0357.mp4,đau tay
+436,D0358.mp4,đau chân
+437,D0359.mp4,đau tai
+438,D0360.mp4,phẫu thuật tay
+439,D0361.mp4,phẫu thuật chân
+440,D0363.mp4,phẫu thuật mũi
+441,D0364.mp4,phẫu thuật cổ
+442,D0365.mp4,phẫu thuật bụng
+443,D0367.mp4,hội chứng Đao - Down
+444,D0369.mp4,mệt mỏi
+445,D0370.mp4,mệt không?
+446,D0371.mp4,đói không?
+447,D0372.mp4,cả ngày
+448,D0373.mp4,chiên/rán (1)(2)
+449,D0374.mp4,nướng
+449,D0375.mp4,luộc
+451,D0377.mp4,lẩu
+452,D0376.mp4,xào
+453,D0378.mp4,gỏi/nộm
+454,D0379.mp4,nhà kho
+455,D0380.mp4,hấp
+456,D0381.mp4,thối
+457,D0384.mp4,ngán
+458,D0385.mp4,tôm hùm
+459,D0386.mp4,cua đồng
+460,D0387.mp4,con hàu
+461,D0388.mp4,hải sản
+462,D0389.mp4,vịt quay
+463,D0390.mp4,gà nướng lu
+464,D0391.mp4,bánh hamburger
+465,D0392.mp4,bánh sandwich
+466,D0395.mp4,"nước ép (cam, cà chua,..)"
+466,D0394.mp4,miến
+468,D0396N.mp4,nước ép trái cây
+468,D0396B.mp4,nước ép trái cây
+470,D0397.mp4,"sinh tố (bơ, dâu,..)"
+471,D0398.mp4,vắt chanh
+472,D0399.mp4,mía
+473,D0400.mp4,chanh đá
+474,D0401.mp4,chanh nóng
+475,D0402.mp4,chanh muối
+476,D0403.mp4,trà đá
+477,D0404.mp4,trà nóng
+478,D0406.mp4,Socola
+479,D0407.mp4,Cocacola
+480,D0408.mp4,7up
+481,D0409.mp4,một tiết học
+482,D0410B.mp4,một tiếng
+483,D0410N.mp4,một tiếng
+484,D0410T.mp4,một tiếng
+485,D0412.mp4,rửa chân
+486,D0414.mp4,đánh răng
+487,D0416B.mp4,tuần này
+488,D0416N.mp4,tuần này
+489,D0416T.mp4,tuần này
+490,D0417B.mp4,tuần sau
+491,D0417N.mp4,tuần sau
+492,D0417T.mp4,tuần sau
+493,D0418B.mp4,tuần trước
+494,D0418N.mp4,tuần trước
+495,D0418T.mp4,tuần trước
+496,D0421.mp4,cuối năm
+497,D0422.mp4,mục tiêu
+498,D0423B.mp4,sinh đôi
+499,D0423N.mp4,sinh đôi
+500,D0423T.mp4,sinh đôi
+501,D0425.mp4,Đảng
+502,D0426.mp4,mô tả
+503,D0427.mp4,mũm mĩm
+504,D0429B.mp4,tóc ngắn
+505,D0429N.mp4,tóc ngắn
+506,D0429T.mp4,tóc ngắn
+507,D0430B.mp4,tổng kết/bế giảng
+508,D0430N.mp4,tổng kết/bế giảng
+509,D0431.mp4,lốc xoáy
+510,D0432N.mp4,tay chân sạch sẽ
+511,D0432T.mp4,tay chân sạch sẽ
+512,D0433.mp4,nhắm mắt
+513,D0434.mp4,sờ
+514,D0435.mp4,cây nến
+515,D0436.mp4,dịu dàng
+516,D0437N.mp4,đùa
+517,D0437T.mp4,đùa
+518,D0438.mp4,làm được
+519,D0439.mp4,dòng sông chảy
+520,D0440.mp4,ăn đủ
+521,D0442.mp4,ăn ít
+522,D0443.mp4,đồ uống
+523,D0444.mp4,đồ ăn
+524,D0445.mp4,trang điểm
+525,D0446.mp4,đau mắt đỏ
+526,D0448.mp4,vợt cầu lông
+527,D0449.mp4,con vượn
+528,D0450.mp4,thắp đèn
+529,D0451.mp4,góp tiền
+530,D0452N.mp4,họp nhóm
+531,D0453.mp4,nhút nhát
+532,D0455.mp4,luộc rau
+533,D0456.mp4,muối
+534,D0458.mp4,thoăn thoắt
+535,D0459.mp4,nghênh nghênh (đầu)
+536,D0460.mp4,đua đòi
+537,D0461.mp4,bình sữa (em bé)
+538,D0462.mp4,đòi
+539,D0463.mp4,đòi hỏi
+540,D0464B.mp4,trẻ con/con nít
+541,D0464N.mp4,trẻ con/con nít
+542,D0464T.mp4,trẻ con/con nít
+543,D0465.mp4,duy nhất
+544,D0466.mp4,cạnh tranh
+545,D0467.mp4,hoa hậu
+546,D0468.mp4,cái neo
+547,D0469.mp4,phóng viên
+548,D0470B.mp4,nhà văn hóa
+549,D0470N.mp4,nhà văn hóa
+550,D0470T.mp4,nhà văn hóa
+551,D0472.mp4,chõ xôi
+552,D0473.mp4,cây cọ
+553,D0474.mp4,khu vực cách ly
+554,D0477.mp4,thung lũng
+555,D0478.mp4,địa hình
+556,D0479.mp4,Kim Đồng
+557,D0480.mp4,Thánh Gióng
+558,D0481.mp4,hoa giấy
+559,D0484.mp4,internet
+560,D0485.mp4,nhà vệ sinh
+561,D0486.mp4,đi vệ sinh
+562,D0488.mp4,hoa mai
+563,D0489.mp4,a
+564,D0490B.mp4,ă
+565,D0490N.mp4,ă
+566,D0491B.mp4,â
+567,D0491N.mp4,â
+568,D0491T.mp4,â
+569,D0493.mp4,c
+570,D0494.mp4,d
+571,D0495.mp4,đ
+572,D0496.mp4,e
+573,D0497B.mp4,ê
+574,D0497N.mp4,ê
+575,D0497T.mp4,ê
+576,D0498B.mp4,g
+577,D0500B.mp4,h
+578,D0500N.mp4,h
+579,D0501.mp4,i
+580,D0503.mp4,l
+581,D0504.mp4,m
+582,D0505.mp4,n
+583,D0506.mp4,o
+584,D0507B.mp4,ô
+585,D0507N.mp4,ô
+586,D0507T.mp4,ô
+587,D0508N.mp4,ơ
+588,D0509N.mp4,p
+589,D0509T.mp4,p
+590,D0510.mp4,q
+591,D0511.mp4,r
+592,D0512.mp4,s
+593,D0513B.mp4,t
+594,D0513N.mp4,t
+595,D0513T.mp4,t
+596,D0514.mp4,u
+597,D0515N.mp4,ư
+598,D0516.mp4,v
+599,D0517B.mp4,x
+600,D0517T.mp4,x
+601,D0518N.mp4,y
+602,D0519.mp4,z
+603,D0521.mp4,f
+604,D0522.mp4,j
+605,D0523.mp4,w
+606,D0524B.mp4,dấu huyền
+607,D0524N.mp4,dấu huyền
+608,D0524T.mp4,dấu huyền
+609,D0525N.mp4,dấu sắc
+610,D0525T.mp4,dấu sắc
+611,D0526B.mp4,dấu hỏi
+612,D0526N.mp4,dấu hỏi
+613,D0526T.mp4,dấu hỏi
+614,D0527B.mp4,dấu ngã
+615,D0527T.mp4,dấu ngã
+616,D0528.mp4,dấu nặng
+617,D0529.mp4,0 (số không)
+618,D0531.mp4,2
+619,D0532.mp4,3
+620,D0534.mp4,5
+621,D0535B.mp4,6
+622,D0535N.mp4,6
+623,D0535T.mp4,6
+624,D0536.mp4,7
+625,D0537.mp4,8
+626,D0538.mp4,9
+627,D0539.mp4,10
+628,D0540B.mp4,11
+629,D0540N.mp4,11
+630,D0540T.mp4,11
+631,D0541B.mp4,12
+632,D0541N.mp4,12
+633,D0541T.mp4,12
+634,D0542N.mp4,23
+635,D0542T.mp4,23
+636,D0543N.mp4,33
+637,D0543T.mp4,33
+638,D0545.mp4,80
+639,D0546N.mp4,90
+640,D0547.mp4,100
+641,D0548N.mp4,1000 (một nghìn)
+642,D0549T.mp4,5000 (năm nghìn)
+643,D0550B.mp4,10 000 (mười nghìn)
+644,D0550N.mp4,10 000 (mười nghìn)
+645,D0550T.mp4,10 000 (mười nghìn)
+646,D0551B.mp4,1 000 000 (một triệu)
+647,D0551N.mp4,1 000 000 (một triệu)
+648,D0551T.mp4,1 000 000 (một triệu)
+649,D0552B.mp4,1 000 000 000 (một tỉ)
+650,D0552N.mp4,1 000 000 000 (một tỉ)
+651,D0552T.mp4,1 000 000 000 (một tỉ)
+652,D0600.mp4,ăn cóc
+653,W00000.mp4,ác
+654,W00001.mp4,ác cảm
+655,W00002.mp4,ác độc
+656,W00004B.mp4,ai
+657,W00004N.mp4,ai
+658,W00004T.mp4,ai
+659,W00006.mp4,An Giang
+660,W00007.mp4,an ninh
+661,W00009B.mp4,Anh (nước Anh)
+662,W00009N.mp4,Anh (nước Anh)
+663,W00009T.mp4,Anh (nước Anh)
+664,W00010B.mp4,anh chị
+665,W00011.mp4,anh chị em
+666,W00012B.mp4,anh dũng
+667,W00012N.mp4,anh dũng
+668,W00012T.mp4,anh dũng
+669,W00013N.mp4,anh em
+670,W00013T.mp4,anh em
+671,W00014N.mp4,anh họ
+672,W00015.mp4,anh hùng
+673,W00018B.mp4,anh rể
+674,W00018N.mp4,anh rể
+675,W00018T.mp4,anh rể
+676,W00019B.mp4,anh ruột
+677,W00019N.mp4,anh ruột
+678,W00019T.mp4,anh ruột
+679,W00020.mp4,anh vợ
+680,W00024.mp4,sáng
+681,W00026.mp4,ao chuôm
+682,W00028.mp4,áo
+683,W00030.mp4,áo cánh
+684,W00032B.mp4,áo đồng phục
+685,W00032N.mp4,áo đồng phục
+686,W00032T.mp4,áo đồng phục
+687,W00033.mp4,áo len
+688,W00035B.mp4,áo phông
+689,W00035N.mp4,áo phông
+690,W00035T.mp4,áo phông
+691,W00039.mp4,ăn diện
+692,W00040.mp4,ăn hối lộ
+693,W00042.mp4,ăn uống
+694,W00043.mp4,ăn vặt
+695,W00044.mp4,ăn xin
+696,W00048.mp4,ầm ĩ
+697,W00049.mp4,ẩm mốc
+698,W00050.mp4,ẩm ướt
+699,W00052.mp4,ấm đun nước
+700,W00053.mp4,ấm no
+701,W00055.mp4,ấm trà
+702,W00057B.mp4,ân hận
+703,W00057N.mp4,ân hận
+704,W00057T.mp4,ân hận
+705,W00059.mp4,ấn
+706,W00061.mp4,ấn tượng
+707,W00062.mp4,Âu Cơ
+708,W00065.mp4,Ba chân bốn cẳng
+709,W00067.mp4,Bà Nà
+710,W00068.mp4,Bà Rịa - Vũng Tàu
+711,W00069.mp4,triệu phú
+712,W00070.mp4,Bạc Liêu
+713,W00071.mp4,bài báo
+714,W00075B.mp4,bài thơ
+715,W00075N.mp4,bài thơ
+716,W00075T.mp4,bài thơ
+717,W00079.mp4,Bãi biển Vũng Tàu
+718,W00082.mp4,bãi cỏ
+719,W00084.mp4,bãi tắm
+720,W00086B.mp4,ban đêm
+721,W00086N.mp4,ban đêm
+722,W00086T.mp4,ban đêm
+723,W00087.mp4,ban giám hiệu
+724,W00089.mp4,ban ngày
+725,W00092.mp4,bàn chải đánh răng
+726,W00093.mp4,bàn chân
+727,W00094.mp4,bàn ghế
+728,W00097.mp4,bàn tay
+729,W00098.mp4,bàn tán
+730,W00099B.mp4,bản đồ Việt Nam
+731,W00099N.mp4,bản đồ Việt Nam
+732,W00099T.mp4,bản đồ Việt Nam
+733,W00100.mp4,bản làng
+734,W00101.mp4,bản lề
+735,W00102.mp4,bản nhạc
+736,W00103.mp4,bản sao (chỉ người)
+737,W00104.mp4,bản thân
+738,W00105.mp4,bán buôn
+739,W00106.mp4,bán đảo
+740,W00107B.mp4,bán hàng
+741,W00107N.mp4,bán hàng
+742,W00107T.mp4,bán hàng
+743,W00108.mp4,bán kính (hình tròn)
+744,W00110B.mp4,bạn
+745,W00110N.mp4,bạn
+746,W00111B.mp4,bạn gái
+747,W00111N.mp4,bạn gái
+748,W00111T.mp4,bạn gái
+749,W00112B.mp4,bạn trai
+750,W00112N.mp4,bạn trai
+751,W00113.mp4,bảng học sinh
+752,W00115T.mp4,bảng chia
+753,W00116.mp4,bảng chỉ dẫn
+754,W00119B.mp4,bảng cộng
+755,W00119T.mp4,bảng cộng
+756,W00120.mp4,bảng cửu chương
+757,W00121B.mp4,bảng đen
+758,W00121N.mp4,bảng đen
+759,W00121T.mp4,bảng đen
+760,W00122.mp4,hãng máy bay
+761,W00123B.mp4,bảng màu
+762,W00124B.mp4,bảng nhân
+763,W00124N.mp4,bảng nhân
+764,W00124T.mp4,bảng nhân
+765,W00125.mp4,hãng xe máy
+766,W00126B.mp4,bảng trừ
+767,W00126T.mp4,bảng trừ
+768,W00127.mp4,bánh bột lọc
+769,W00128.mp4,bánh cốm
+770,W00129N.mp4,bánh cuốn
+771,W00129T.mp4,bánh cuốn
+772,W00130.mp4,bánh Trung Thu
+773,W00131.mp4,bánh đa
+774,W00132.mp4,bánh đúc
+775,W00133.mp4,bánh gai
+776,W00134.mp4,bánh giầy
+777,W00136.mp4,bánh gối
+778,W00137B.mp4,bánh mì
+779,W00137N.mp4,bánh mì
+780,W00140.mp4,bánh pizza
+781,W00141.mp4,bánh pía
+782,W00142.mp4,hãng tàu thuyền
+783,W00144.mp4,bánh xe
+784,W00145B.mp4,bao giờ?
+785,W00145N.mp4,bao giờ?
+786,W00145T.mp4,bao giờ?
+787,W00146.mp4,bao la
+788,W00147.mp4,bao nhiêu?
+789,W00155.mp4,lưu
+790,W00156.mp4,bảo tàng
+791,W00157.mp4,bảo thủ
+792,W00158.mp4,tồn tại
+793,W00159B.mp4,bảo vệ môi trường
+794,W00159N.mp4,bảo vệ môi trường
+795,W00159T.mp4,bảo vệ môi trường
+796,W00160B.mp4,báo (con báo)
+797,W00161.mp4,báo cáo
+798,W00163.mp4,báo động
+799,W00170.mp4,bát
+800,W00171.mp4,bát hương
+801,W00172.mp4,bát ngát
+802,W00173.mp4,làng gốm Bát Tràng
+803,W00174.mp4,bay
+804,W00175.mp4,xì hơi (đánh rắm)
+805,W00175N.mp4,xì hơi (đánh rắm)
+806,W00179.mp4,bắc bán cầu
+807,W00176.mp4,bay liệng (bay lượn)
+808,W00181.mp4,Bắc bộ
+809,W00182.mp4,Bắc Giang
+810,W00184N.mp4,bắc nam
+811,W00184T.mp4,bắc nam
+812,W00186B.mp4,bắn bi
+813,W00186N.mp4,bắn bi
+814,W00186T.mp4,bắn bi
+815,W00187.mp4,bắn súng
+816,W00188.mp4,băng bó
+817,W00189.mp4,băng chuyền
+818,W00190.mp4,băng dính
+819,W00191.mp4,băng giá
+820,W00194.mp4,bằng
+821,W00195.mp4,bằng phẳng
+822,W00196N.mp4,bắp ngô
+823,W00196T.mp4,bắp ngô
+824,W00198.mp4,bắt đền
+825,W00198B.mp4,bắt đền
+826,W00198N.mp4,bắt đền
+827,W00199.mp4,bắt giữ
+828,W00202.mp4,bắt tay
+829,W00203.mp4,bậc thang
+830,W00205.mp4,bập bênh
+831,W00206.mp4,bất động
+832,W00207.mp4,bất hiếu
+833,W00209.mp4,bật đèn
+834,W00210.mp4,bật lửa
+835,W00212.mp4,bầu trời
+836,W00214B.mp4,bẫy chuột (hành động)
+837,W00214T.mp4,bẫy chuột (hành động)
+838,W00215.mp4,bẫy chuột (dụng cụ)
+839,W00216B.mp4,bẻ ngô
+840,W00216T.mp4,bẻ ngô
+841,W00217.mp4,bé gái
+842,W00218.mp4,bé hơn
+843,W00219.mp4,bé loắt choắt
+844,W00220N.mp4,bé trai
+845,W00220T.mp4,bé trai
+846,W00225.mp4,béo
+847,W00228.mp4,bê tông
+848,W00230.mp4,bể bơi
+849,W00231.mp4,bể cá
+850,W00232.mp4,bế em
+851,W00234B.mp4,bệ hạ
+852,W00234T.mp4,bệ hạ
+853,W00235.mp4,bệ xí
+854,W00236.mp4,bên cạnh
+855,W00236N.mp4,bên cạnh
+856,W00237.mp4,bên dưới
+857,W00238.mp4,bên phải
+858,W00239.mp4,bên trái
+859,W00240.mp4,bên trên
+860,W00241.mp4,bên trong
+861,W00243.mp4,bến tàu
+862,W00245.mp4,bến xe
+863,W00246.mp4,bênh vực
+864,W00247.mp4,bệnh thủy đậu
+865,W00248.mp4,bệnh nhân
+866,W00249.mp4,bệnh tật
+867,W00252.mp4,bí ngô
+868,W00254.mp4,bìa sách
+869,W00255B.mp4,bìa vở
+870,W00255T.mp4,bìa vở
+871,W00256.mp4,bịa đặt
+872,W00258.mp4,hóa đơn
+873,W00260.mp4,biển đông
+874,W00261.mp4,biển hiệu
+875,W00263.mp4,biện pháp
+876,W00265.mp4,biểu đồ
+877,W00262N.mp4,biến đổi
+878,W00267.mp4,biểu đồ hình quạt
+879,W00270.mp4,biểu thị
+880,W00274B.mp4,bình an
+881,W00274N.mp4,bình an
+882,W00274T.mp4,bình an
+883,W00276.mp4,Bình Dương
+884,W00277.mp4,Bình Định
+884,W00279.mp4,bình minh
+886,W00282.mp4,bình phương
+887,W00285.mp4,Bình Thuận
+888,W00286B.mp4,bình thường
+889,W00286T.mp4,bình thường
+890,W00288.mp4,bò
+891,W00289.mp4,bò sát
+892,W00292.mp4,bỏ hoang
+893,W00293.mp4,bỏ phiếu
+894,W00294.mp4,bỏ qua
+895,W00295.mp4,bỏ rơi
+896,W00297.mp4,bó đũa
+897,W00298.mp4,bó hoa
+898,W00299.mp4,bóc lột
+899,W00300.mp4,bóc vỏ
+900,W00301.mp4,bọc sách
+901,W00302.mp4,bom đạn
+902,W00303.mp4,bom nguyên tử
+903,W00304N.mp4,bón phân
+904,W00304T.mp4,bón phân
+905,W00305.mp4,bỏng
+906,W00306.mp4,bỏng ngô
+907,W00308.mp4,bóng bay
+908,W00314.mp4,bọt xà phòng
+909,W00315.mp4,bồ kết
+910,W00316.mp4,bổ ích
+911,W00317.mp4,bổ ngữ
+912,W00318.mp4,bổ trợ
+913,W00320.mp4,bố trí
+914,W00321.mp4,bộ truyện
+915,W00322.mp4,bốc vác
+916,W00325.mp4,bố
+917,W00326B.mp4,bố dượng
+918,W00326N.mp4,bố dượng
+919,W00326T.mp4,bố dượng
+920,W00327.mp4,bố mẹ
+921,W00328B.mp4,bộ đội
+922,W00328N.mp4,bộ đội
+923,W00328T.mp4,bộ đội
+924,W00329.mp4,bộ sách
+925,W00330.mp4,bốc hơi
+926,W00331.mp4,bốc thăm
+927,W00332.mp4,bồi bàn
+928,W00333.mp4,bồi thường
+929,W00334.mp4,bồn hoa
+930,W00335.mp4,bồn rửa bát
+931,W00336B.mp4,bông hoa
+932,W00336N.mp4,bông hoa
+933,W00336T.mp4,bông hoa
+934,W00337B.mp4,bốt cảnh sát
+935,W00337T.mp4,bốt cảnh sát
+936,W00338B.mp4,bốt điện
+937,W00338N.mp4,bốt điện
+938,W00338T.mp4,bốt điện
+939,W00340.mp4,bột giặt
+940,W00341B.mp4,bột màu
+941,W00341N.mp4,bột màu
+942,W00341T.mp4,bột màu
+943,W00344.mp4,bờ biển
+944,W00345.mp4,bờ rào
+945,W00347.mp4,bơi
+946,W00348.mp4,bơi lội
+947,W00349.mp4,bơm (cái bơm)
+948,W00350.mp4,bơm nước
+949,W00351.mp4,bơm xe
+950,W00352.mp4,bờm tóc
+951,W00353.mp4,bớt
+952,W00354.mp4,bớt đi
+953,W00355N.mp4,Bra-xin (nước Bra-xin)
+954,W00356B.mp4,Bru-nây (nước Bru-nây)
+955,W00356N.mp4,Bru-nây (nước Bru-nây)
+956,W00356T.mp4,Bru-nây (nước Bru-nây)
+957,W00357N.mp4,cỏ
+958,W00358.mp4,bụi đời
+959,W00359B.mp4,bụi phấn
+960,W00359N.mp4,bụi phấn
+961,W00359T.mp4,bụi phấn
+962,W00360.mp4,Bun-ga-ri (nước Bun-ga-ri)
+963,W00361.mp4,bùn
+964,W00362.mp4,bụng
+965,W00363.mp4,buộc dây
+966,W00364.mp4,buộc tóc
+967,W00366.mp4,buổi chiều
+968,W00367B.mp4,buổi đêm
+969,W00367N.mp4,buổi đêm
+970,W00367T.mp4,buổi đêm
+971,W00369B.mp4,buổi tối
+972,W00369T.mp4,buổi tối
+973,W00370B.mp4,buổi trưa
+974,W00370N.mp4,buổi trưa
+975,W00370T.mp4,buổi trưa
+976,W00371.mp4,buôn làng
+977,W00372.mp4,buồn nôn
+978,W00374B.mp4,buông màn
+979,W00374N.mp4,buông màn
+980,W00374T.mp4,buông màn
+981,W00377.mp4,buồng trứng
+982,W00378.mp4,búp bê
+983,W00381.mp4,bút bi
+984,W00382.mp4,bút dạ
+985,W00383B.mp4,bút màu
+986,W00383N.mp4,bút màu
+987,W00383T.mp4,bút màu
+988,W00384.mp4,bút máy
+989,W00385.mp4,bữa cơm
+990,W00386B.mp4,bức tranh
+991,W00386N.mp4,bức tranh
+992,W00386T.mp4,bức tranh
+993,W00387.mp4,bức tường
+994,W00388.mp4,bước
+995,W00390N.mp4,bướng bỉnh
+996,W00390T.mp4,bướng bỉnh
+997,W00393.mp4,bưu tá
+998,W00395.mp4,ca
+999,W00396.mp4,ca nô
+1000,W00397.mp4,Cà Mau
+1001,W00398B.mp4,cá kho
+1002,W00398N.mp4,cá kho
+1003,W00398T.mp4,cá kho
+1004,W00400.mp4,các bạn
+1005,W00401.mp4,cãi nhau
+1006,W00402.mp4,cái bè
+1007,W00404B.mp4,cái gương
+1008,W00404T.mp4,cái gương
+1009,W00405.mp4,cái nhíp
+1010,W00406.mp4,cái túi
+1011,W00407B.mp4,Cam-pu-chia (nước Cam-pu-chia)
+1012,W00407N.mp4,Cam-pu-chia (nước Cam-pu-chia)
+1013,W00407T.mp4,Cam-pu-chia (nước Cam-pu-chia)
+1014,W00409.mp4,cảnh vật
+1015,W00410.mp4,cánh tay
+1016,W00411.mp4,cạnh
+1017,W00412.mp4,cạnh bên (toán)
+1018,W00413.mp4,cạnh đáy
+1019,W00414.mp4,cạnh đối diện
+1020,W00415.mp4,cao (người)
+1021,W004152.mp4,cao (nhà)
+1022,W004153.mp4,cao (núi)
+1023,W00418.mp4,cao độ
+1024,W00419.mp4,cao nguyên
+1025,W00420.mp4,cao quý
+1026,W00421.mp4,cao tầng
+1027,W00422.mp4,cao thấp
+1028,W00423.mp4,cao tốc
+1029,W00424.mp4,cát
+1030,W00425.mp4,cau có
+1031,W00426.mp4,cày
+1032,W00427.mp4,cày ruộng
+1033,W00428.mp4,cặp sách
+1034,W00429.mp4,cặp tóc
+1035,W00430.mp4,cắt nhau
+1036,W00431.mp4,cần khởi động
+1037,W00432.mp4,cấp cứu
+1038,W00433.mp4,cấp dưỡng
+1039,W00436.mp4,cất tiếng khóc
+1040,W00437.mp4,cất tiếng nói
+1041,W00439.mp4,câu chuyện
+1042,W00441.mp4,câu đối
+1043,W00442.mp4,câu đơn
+1044,W00443.mp4,câu ghép
+1045,W00444B.mp4,câu thơ
+1046,W00444N.mp4,câu thơ
+1047,W00446.mp4,cầu (cây cầu)
+1048,W00447.mp4,cầu cứu
+1049,W00448.mp4,cầu giao
+1050,W00449.mp4,cầu kì
+1051,W00450.mp4,cầu nguyện
+1052,W00451.mp4,cầu thủ
+1053,W00453.mp4,cáp treo
+1054,W00454.mp4,cầu trượt
+1055,W00455.mp4,cầu vượt
+1056,W00456B.mp4,cây ăn quả
+1057,W00456N.mp4,cây ăn quả
+1058,W00456T.mp4,cây ăn quả
+1059,W00457B.mp4,cây bàng
+1060,W00457T.mp4,cây bàng
+1061,W00459B.mp4,cây cổ thụ
+1062,W00459T.mp4,cây cổ thụ
+1063,W00460.mp4,cây cối
+1064,W00464.mp4,cây gỗ
+1065,W00469B.mp4,cây ngô
+1066,W00469N.mp4,cây ngô
+1067,W00469T.mp4,cây ngô
+1068,W00470B.mp4,cây phượng
+1069,W00470N.mp4,cây phượng
+1070,W00471.mp4,cây sả
+1071,W00473.mp4,cây số
+1072,W00474B.mp4,cây thân gỗ
+1073,W00474N.mp4,cây thân gỗ
+1074,W00474T.mp4,cây thân gỗ
+1075,W00477.mp4,cây trồng
+1076,W00478.mp4,cây xanh
+1077,W00480.mp4,cấy lúa
+1078,W00481.mp4,cha
+1079,W00482.mp4,cha mẹ
+1080,W00484B.mp4,chả cá
+1081,W00484N.mp4,chả cá
+1082,W00484T.mp4,chả cá
+1083,W00485.mp4,chai
+1084,W00486.mp4,chai nước
+1085,W00488.mp4,chàng trai
+1086,W00489.mp4,chào
+1087,W00490.mp4,chào cờ
+1088,W00492.mp4,chào mừng
+1089,W00493N.mp4,chảo
+1090,W00493T.mp4,chảo
+1091,W00494.mp4,chát
+1092,W00495B.mp4,cháu gái
+1093,W00495N.mp4,cháu gái
+1094,W00496B.mp4,cháu ngoại
+1095,W00496T.mp4,cháu ngoại
+1096,W00497B.mp4,cháu nội
+1097,W00497N.mp4,cháu nội
+1098,W00497T.mp4,cháu nội
+1099,W00498B.mp4,cháu trai
+1100,W00498N.mp4,cháu trai
+1101,W00499.mp4,chày
+1102,W00500.mp4,cháy rừng
+1103,W00501.mp4,chạy
+1104,W00504.mp4,chạy nhanh
+1105,W00506.mp4,chú ( người)
+1106,W00508B.mp4,chăm sóc sức khỏe
+1107,W00508N.mp4,chăm sóc sức khỏe
+1108,W00508T.mp4,chăm sóc sức khỏe
+1109,W00509B.mp4,chăn (cái chăn)
+1110,W00509T.mp4,chăn (cái chăn)
+1111,W00510B.mp4,chăn nuôi
+1112,W00510N.mp4,chăn nuôi
+1113,W00510T.mp4,chăn nuôi
+1114,W00512.mp4,chặn
+1115,W00513B.mp4,chặt
+1116,W00513N.mp4,chặt
+1117,W00513T.mp4,chặt
+1118,W00514.mp4,chặt chẽ
+1119,W00515.mp4,châm chọc
+1120,W00516T.mp4,châm cứu
+1121,W00519.mp4,chấm dứt
+1122,W00520.mp4,chấm điểm
+1123,W00522.mp4,chân dung
+1124,W00525.mp4,chân tay
+1125,W00529.mp4,chất dẻo
+1126,W00530.mp4,chất đốt
+1127,W00531.mp4,chất độc
+1128,W00533.mp4,chất độc màu da cam
+1129,W00534.mp4,chất hữu cơ
+1130,W00536.mp4,chất lỏng
+1131,W00537.mp4,chất lượng
+1132,W00538.mp4,chất rắn
+1133,W00539.mp4,chất thải
+1134,W00540.mp4,chật chội
+1135,W00542.mp4,Châu Á Thái Bình Dương
+1136,W00544.mp4,Châu Đại Dương
+1137,W00546.mp4,che chở
+1138,W00547.mp4,che phủ
+1139,W00548.mp4,chè đỗ đỏ
+1140,W00550.mp4,chém
+1141,W00551.mp4,chen lấn
+1142,W00552.mp4,chèn ép
+1143,W00553.mp4,chén
+1144,W00555.mp4,chép bài
+1145,W00559.mp4,tạo thành
+1146,W00564.mp4,chỉ
+1147,W00565.mp4,chỉ dẫn
+1148,W00567.mp4,chỉ huy
+1149,W00568.mp4,chỉ khâu
+1150,W00570B.mp4,chị
+1151,W00570N.mp4,chị
+1152,W00571B.mp4,chị chồng
+1153,W00571N.mp4,chị chồng
+1154,W00572.mp4,chị dâu
+1155,W00573.mp4,Chi-lê (nước Chi-lê)
+1156,W00575B.mp4,chia
+1157,W00575N.mp4,chia
+1158,W00575T.mp4,chia
+1159,W00578.mp4,chia đều
+1160,W00579.mp4,chia hết
+1161,W00580.mp4,chia phần
+1162,W00581.mp4,chia sẻ
+1163,W00582.mp4,chia tay
+1164,W00583.mp4,chìa khóa
+1165,W00584B.mp4,chiếc gối
+1166,W00584N.mp4,chiếc gối
+1167,W00585.mp4,chiếm đoạt
+1168,W00590.mp4,sĩ quan
+1169,W00591.mp4,chiến thắng
+1170,W00593.mp4,chiêng
+1171,W00594.mp4,chiều cao
+1172,W00595.mp4,chiều dài
+1173,W00596.mp4,chiều rộng
+1174,W00597.mp4,chiều tối
+1175,W00598.mp4,chiếu
+1176,W00598T.mp4,chiếu
+1177,W00599.mp4,chiếu phim
+1178,W00601.mp4,cá mập
+1179,W00602.mp4,chim bồ câu
+1180,W00603.mp4,chim chào mào
+1180,W00604.mp4,chim chích chòe
+1182,W00605.mp4,chim chóc
+1182,W00606.mp4,chim đại bàng
+1184,W00608.mp4,chim gõ kiến
+1185,W00610.mp4,chim sâu
+1186,W00611.mp4,chim sẻ
+1187,W00612.mp4,chim sơn ca
+1188,W00614.mp4,chim yến
+1189,W00615.mp4,chỉnh sửa
+1190,W00616.mp4,chín
+1191,W00617T.mp4,chính phủ
+1192,W00619.mp4,chính tả
+1193,W00620B.mp4,chính xác
+1194,W00620N.mp4,chính xác
+1195,W00620T.mp4,chính xác
+1196,W00623.mp4,chó sói
+1197,W00624.mp4,chó xù
+1198,W00625.mp4,chọi gà
+1199,W00626.mp4,chọi trâu
+1200,W00628.mp4,chọn lọc
+1201,W00629.mp4,chọn lựa
+1202,W00630.mp4,chong chóng
+1203,W00633B.mp4,chống đối
+1204,W00633N.mp4,chống đối
+1205,W00633T.mp4,chống đối
+1206,W00634.mp4,chợ Bến Thành
+1207,W00635.mp4,chợ nổi
+1208,W00636.mp4,chợ nổi Cái Bè
+1209,W00637.mp4,chợ nổi Cái Răng
+1210,W00639B.mp4,chơi
+1211,W00639T.mp4,chơi
+1212,W00642.mp4,chủ đề
+1213,W00644.mp4,chủ động
+1214,W00645.mp4,chủ nghĩa xã hội
+1215,W00646.mp4,chủ ngữ
+1216,W00647.mp4,chủ nhiệm
+1217,W00648.mp4,nước tới chân mới nhảy
+1218,W00649B.mp4,chủ tịch
+1219,W00649N.mp4,chủ tịch
+1220,W00649T.mp4,chủ tịch
+1221,W00650.mp4,chú hề
+1222,W00651.mp4,chú rể
+1223,W00652.mp4,chú tễu
+1224,W00653.mp4,thích nghi
+1225,W00654.mp4,chú ý
+1226,W00655B.mp4,chùa
+1227,W00655N.mp4,chùa
+1228,W00655T.mp4,chùa
+1229,W00657.mp4,chùa Hương
+1230,W00658.mp4,chùa Một Cột
+1231,W00662B.mp4,chuẩn bị
+1232,W00662N.mp4,chuẩn bị
+1233,W00662T.mp4,chuẩn bị
+1234,W00663B.mp4,chúc mừng
+1235,W00664B.mp4,chúc tết
+1236,W00664N.mp4,chúc tết
+1237,W00664T.mp4,chúc tết
+1238,W00665B.mp4,chúc thọ
+1239,W00665N.mp4,chúc thọ
+1240,W00665T.mp4,chúc thọ
+1241,W00666.mp4,chục
+1242,W00667.mp4,chục nghìn
+1243,W00668.mp4,chục triệu
+1244,W00669.mp4,chui
+1245,W00671.mp4,chúi đầu
+1246,W00672.mp4,chum
+1247,W00673.mp4,chùm hoa
+1248,W00676.mp4,chùm nho
+1249,W00677.mp4,chùm vải
+1250,W00678.mp4,chung kết
+1251,W00679.mp4,chuỗi hạt
+1252,W00683.mp4,chuông
+1253,W00684.mp4,chuông nhà
+1254,W00685.mp4,chuồng
+1255,W00686.mp4,chuột quang
+1256,W00687.mp4,chụp ảnh
+1257,W00688.mp4,chụp đèn
+1258,W00689.mp4,chuyên biệt
+1259,W00690.mp4,chuyên cần
+1260,W00691B.mp4,chuyên gia
+1261,W00691N.mp4,chuyên gia
+1262,W00691T.mp4,chuyên gia
+1263,W00693.mp4,chim chuyền cành
+1264,W00694.mp4,chuyển đồ
+1265,W00696.mp4,chuyển đổi số đo
+1266,W00697.mp4,chuyển động
+1267,W00698.mp4,chuyển động đều
+1268,W00699.mp4,chuyển động quay
+1269,W00701.mp4,chuyển hướng
+1270,W00702.mp4,chuyển vế
+1271,W00703.mp4,chuyện trò
+1272,W00706.mp4,chữ hoa
+1273,W00707.mp4,chữ viết
+1274,W00708B.mp4,chữa bài
+1275,W00708N.mp4,chữa bài
+1276,W00708T.mp4,chữa bài
+1277,W00709.mp4,chữa cháy
+1278,W00712.mp4,chứng kiến
+1279,W00713.mp4,chương trình
+1280,W00714.mp4,chữ
+1281,W00716.mp4,chữa bệnh
+1282,W00718.mp4,chứng cớ
+1283,W00719.mp4,chứng minh
+1284,W00721.mp4,co dãn
+1285,W00722.mp4,co giật
+1286,W00724.mp4,cỏ may
+1287,W00726.mp4,có ích
+1288,W00728.mp4,trọng nam khinh nữ
+1289,W00729.mp4,còi
+1290,W00730.mp4,còi xương
+1291,W00731.mp4,coi thường
+1292,W00732.mp4,máy vi tính
+1293,W00733.mp4,con ba ba
+1294,W00734B.mp4,con bê
+1295,W00734N.mp4,con bê
+1296,W00734T.mp4,con bê
+1297,W00735T.mp4,con bò
+1298,W00736.mp4,con bướm
+1299,W00737B.mp4,con cá
+1300,W00737N.mp4,con cá
+1301,W00737T.mp4,con cá
+1302,W00738.mp4,con chim
+1303,W00739B.mp4,con chó
+1304,W00739N.mp4,con chó
+1305,W00739T.mp4,con chó
+1306,W00740.mp4,con chồn
+1307,W00741.mp4,con chuồn chuồn
+1308,W00742B.mp4,con chuột
+1309,W00742N.mp4,con chuột
+1310,W00742T.mp4,con chuột
+1311,W00743.mp4,con chuột nhắt
+1312,W00745.mp4,con cò
+1313,W00746.mp4,con cóc
+1314,W00747B.mp4,con cọp
+1315,W00747N.mp4,con cọp
+1316,W00747T.mp4,con cọp
+1317,W00748.mp4,con công
+1318,W00749.mp4,con cua
+1319,W00750.mp4,con cú mèo
+1320,W00751.mp4,con cừu
+1321,W00752.mp4,con dâu
+1322,W00753.mp4,con dê
+1323,W00754.mp4,con dế
+1324,W00755.mp4,con đẻ
+1325,W00757.mp4,con đường
+1326,W00758B.mp4,con ếch
+1327,W00758N.mp4,con ếch
+1328,W00758T.mp4,con ếch
+1329,W00759.mp4,con gà
+1330,W00760.mp4,con gái
+1331,W00761.mp4,con gấu
+1332,W00762.mp4,con ghẹ
+1333,W00763.mp4,con gián
+1334,W00764.mp4,con hoẵng
+1335,W00766.mp4,con hươu
+1336,W00767.mp4,con khỉ
+1337,W00768B.mp4,con kiến
+1338,W00768N.mp4,con kiến
+1339,W00770B.mp4,con lợn (con heo)
+1340,W00770N.mp4,con lợn (con heo)
+1341,W00770T.mp4,con lợn (con heo)
+1342,W00771.mp4,con lươn
+1343,W00772B.mp4,con mèo
+1344,W00772N.mp4,con mèo
+1345,W00772T.mp4,con mèo
+1346,W00773B.mp4,con muỗi
+1347,W00773N.mp4,con muỗi
+1348,W00773T.mp4,con muỗi
+1349,W00774.mp4,con mực
+1350,W00775.mp4,con nai
+1351,W00777B.mp4,con người
+1352,W00777N.mp4,con người
+1353,W00778B.mp4,con ngựa
+1354,W00778N.mp4,con ngựa
+1355,W00778T.mp4,con ngựa
+1356,W00779.mp4,con nhím
+1357,W00780B.mp4,con nuôi
+1358,W00780N.mp4,con nuôi
+1359,W00780T.mp4,con nuôi
+1360,W00781N.mp4,con ong
+1361,W00781T.mp4,con ong
+1362,W00782.mp4,con ốc
+1363,W00783.mp4,con quạ
+1364,W00784.mp4,con rắn
+1365,W00785.mp4,con rối
+1366,W00786.mp4,con ruồi
+1367,W00789.mp4,con sò
+1368,W00790.mp4,con sóc
+1369,W00791.mp4,con sói
+1370,W00792.mp4,con sông
+1371,W00794N.mp4,con sư tử
+1372,W00794T.mp4,con sư tử
+1373,W00796.mp4,con thỏ
+1374,W00797B.mp4,con tôm
+1375,W00797T.mp4,con tôm
+1376,W00798.mp4,con trai (động vật)
+1377,W00799.mp4,con trăn
+1378,W00800.mp4,con trỏ
+1379,W00801.mp4,con vẹt
+1380,W00802.mp4,con vịt
+1381,W00803B.mp4,con voi
+1382,W00803N.mp4,con voi
+1383,W00803T.mp4,con voi
+1384,W00804.mp4,cong
+1385,W00805.mp4,còng (cái còng)
+1386,W00806.mp4,còng
+1387,W00807.mp4,cõng
+1388,W00809.mp4,cô dâu
+1389,W00811.mp4,cô đơn
+1390,W00812B.mp4,cô giáo
+1391,W00812N.mp4,cô giáo
+1392,W00812T.mp4,cô giáo
+1393,W00814.mp4,cổ
+1394,W00815.mp4,cổ áo
+1395,W00816.mp4,cổ chân
+1396,W00817.mp4,cổ đại
+1397,W00818.mp4,cổ họng
+1398,W00820N.mp4,cố gắng
+1399,W00820T.mp4,cố gắng
+1400,W00822.mp4,cổ tay
+1401,W00823.mp4,cổ truyền
+1402,W00824.mp4,cổ vũ
+1403,W00825N.mp4,cổng trường
+1404,W00825T.mp4,cổng trường
+1405,W00826.mp4,cỗ
+1406,W00827.mp4,cố định
+1407,W00829.mp4,Cô-lôm-bi-a (nước Cô-lôm-bi-a)
+1408,W00831.mp4,cố ý (như cố tình)
+1409,W00833.mp4,cối giã
+1410,W00834.mp4,cối xay gió
+1411,W00835.mp4,cối xay lúa
+1412,W00836.mp4,cốm
+1413,W00838.mp4,công bằng
+1414,W00839.mp4,công chúa
+1415,W00840.mp4,công cộng
+1416,W00841.mp4,công cụ
+1417,W00843.mp4,công nhận
+1418,W00844.mp4,công sức
+1419,W00846.mp4,công thức
+1420,W00849.mp4,công ước
+1421,W00850B.mp4,công viên
+1422,W00850N.mp4,công viên
+1423,W00850T.mp4,công viên
+1424,W00851.mp4,công việc
+1425,W00852.mp4,Paris
+1426,W00854.mp4,cổng
+1427,W00856.mp4,cống
+1428,W00857B.mp4,cộng (Toán học)
+1429,W00857N.mp4,cộng (Toán học)
+1430,W00857T.mp4,cộng (Toán học)
+1431,W00859.mp4,cốp xe
+1432,W00861.mp4,cột
+1433,W00862.mp4,cột đèn
+1434,W00863B.mp4,cột điện
+1435,W00863N.mp4,cột điện
+1436,W00863T.mp4,cột điện
+1437,W00866.mp4,cột sống
+1438,W00867.mp4,cơ bắp
+1439,W00868B.mp4,cơ hội
+1440,W00868T.mp4,cơ hội
+1441,W00870.mp4,cơ quan
+1442,W00871.mp4,cơ sở
+1443,W00872.mp4,cơ thể
+1444,W00876.mp4,cởi áo
+1445,W00877.mp4,cơm hộp
+1446,W00878.mp4,cờ
+1447,W00883.mp4,cởi mở
+1448,W00884.mp4,cơm
+1449,W00885B.mp4,cơm bình dân
+1450,W00885N.mp4,cơm bình dân
+1451,W00889.mp4,củ đậu
+1452,W00890.mp4,củ khoai lang
+1453,W00892.mp4,củ từ
+1454,W00893.mp4,cụ thể
+1455,W00894.mp4,cúc áo
+1456,W00895.mp4,cúi
+1457,W00899.mp4,cuống hoa
+1458,W00900.mp4,cù
+1459,W00901.mp4,củ cà rốt
+1460,W00903.mp4,củ gừng
+1461,W00904.mp4,củ hành tây
+1462,W00905.mp4,củ khoai tây
+1463,W00906.mp4,củ nghệ
+1464,W00907.mp4,củ su hào
+1465,W00910.mp4,cụ
+1466,W00911.mp4,cụ đồ
+1467,W00912.mp4,cụ già
+1468,W00915.mp4,cùi chỏ
+1469,W00916.mp4,củi
+1470,W00922.mp4,cuộc đời
+1471,W00923.mp4,cuộc sống
+1472,W00924.mp4,cuốn
+1473,W00929.mp4,cử chỉ điệu bộ
+1474,W00930.mp4,cử động
+1475,W00931.mp4,cưa (cái cưa)
+1476,W00932.mp4,cưa
+1477,W00935B.mp4,cửa hàng
+1478,W00935T.mp4,cửa hàng
+1479,W00936.mp4,cửa khẩu
+1480,W00939.mp4,cửa sổ
+1481,W00941.mp4,cưỡi ngựa
+1482,W00942.mp4,yên ngựa
+1483,W00943B.mp4,cướp
+1484,W00943N.mp4,cướp
+1485,W00943T.mp4,cướp
+1486,W00944.mp4,cướp biển
+1487,W00945.mp4,cướp cờ
+1488,W00946.mp4,cướp giật
+1489,W00947.mp4,cứu
+1490,W00948.mp4,cứu hộ
+1491,W00951.mp4,dai
+1492,W00952.mp4,dài
+1493,W00953.mp4,dài hạn
+1494,W00954.mp4,dài hơn
+1495,W00958.mp4,dải phân cách
+1496,W00959.mp4,dàn bài
+1497,W00960.mp4,dàn nhạc
+1498,W00963.mp4,danh bạ
+1499,W00964.mp4,danh dự
+1500,W00965.mp4,danh hiệu
+1501,W00966.mp4,danh lam thắng cảnh
+1502,W00967.mp4,danh mục
+1503,W00968.mp4,danh nhân
+1504,W00969.mp4,danh sách
+1505,W00970.mp4,danh từ
+1506,W00971.mp4,danh từ riêng
+1507,W00972.mp4,dán
+1508,W00973.mp4,dao
+1509,W00976.mp4,dãy núi
+1509,W00975.mp4,dãy nhà
+1511,W00978.mp4,dãy số liệu
+1511,W00977.mp4,dãy số
+1513,W00979.mp4,dạy
+1513,W00980.mp4,dặn dò
+1515,W00982.mp4,dân ca
+1516,W00983.mp4,dân chài
+1517,W00985.mp4,gian lận
+1518,W00987.mp4,dân số
+1519,W00988B.mp4,dân tộc
+1520,W00988T.mp4,dân tộc
+1521,W00989B.mp4,dân tộc thiểu số
+1522,W00989N.mp4,dân tộc thiểu số
+1523,W00989T.mp4,dân tộc thiểu số
+1524,W00990.mp4,dẫn chương trình
+1525,W00991.mp4,dẫn chứng
+1526,W00992.mp4,dập
+1527,W00994.mp4,dầu gội đầu
+1528,W00995.mp4,dầu hoả
+1529,W00996.mp4,dầu khí
+1530,W00997.mp4,dầu mỏ
+1531,W00998.mp4,dấu bằng
+1532,W01001.mp4,dấu chấm
+1533,W01002.mp4,dấu chấm hỏi
+1534,W01003.mp4,dấu chấm than
+1535,W01004.mp4,dấu chia
+1536,W01005.mp4,dấu gạch ngang
+1537,W01006.mp4,dấu hai chấm
+1538,W01008.mp4,bắt buộc
+1539,W01009.mp4,dấu ngoặc đơn
+1540,W01010.mp4,dấu nhân
+1541,W01011.mp4,dấu phẩy
+1542,W01014.mp4,dây buộc tóc
+1543,W01016B.mp4,dây điện
+1544,W01016N.mp4,dây điện
+1545,W01017.mp4,dây thần kinh
+1546,W01018.mp4,dây thừng
+1547,W01021.mp4,dẻo
+1548,W01022B.mp4,dép quai hậu
+1549,W01022T.mp4,dép quai hậu
+1549,W01022N.mp4,dép quai hậu
+1551,W01025.mp4,dê mẹ
+1551,W01024.mp4,dê con
+1553,W01026.mp4,dễ chịu
+1553,W01027.mp4,dễ thương
+1555,W01028.mp4,dệt
+1556,W01032B.mp4,di truyền
+1557,W01032N.mp4,di truyền
+1558,W01032T.mp4,di truyền
+1559,W01033B.mp4,dịch vụ
+1560,W01033N.mp4,dịch vụ
+1561,W01033T.mp4,dịch vụ
+1562,W01034.mp4,diêm
+1563,W01035.mp4,kịch
+1564,W01036.mp4,kịch câm
+1565,W01039.mp4,diện tích
+1566,W01041.mp4,diện tích xung quanh
+1567,W01043.mp4,xịt côn trùng
+1568,W01044.mp4,diều
+1569,W01046.mp4,Dinh Độc Lập
+1570,W01050.mp4,hăm dọa
+1571,W01051.mp4,doanh nghiệp
+1572,W01053.mp4,doanh trại
+1573,W01054.mp4,dọc
+1574,W01055.mp4,dòng chữ
+1575,W01056.mp4,dòng họ
+1576,W01058.mp4,dòng sông
+1577,W01060.mp4,dốc
+1578,W01062.mp4,du học
+1579,W01064.mp4,du thuyền
+1580,W01068.mp4,dũng cảm
+1581,W01069.mp4,dụng cụ
+1582,W01071.mp4,duyệt binh
+1583,W01075B.mp4,nhà nước
+1584,W01075N.mp4,nhà nước
+1585,W01075T.mp4,nhà nước
+1586,W01076.mp4,dựng phim
+1587,W01079.mp4,pháo đài
+1588,W01080.mp4,đài sen
+1589,W01082B.mp4,đại diện
+1590,W01083.mp4,đại dương
+1591,W01086.mp4,đại tá
+1592,W01088.mp4,đại tướng
+1593,W01089.mp4,đại úy
+1594,W01092.mp4,đảm nhiệm
+1595,W01093.mp4,đám ma
+1596,W01094.mp4,đám mây
+1597,W01095.mp4,đan
+1598,W01096.mp4,đàn xê lô đại vĩ cầm
+1599,W01098.mp4,đàn bầu
+1600,W01099.mp4,đàn bướm
+1601,W01100.mp4,đàn ghi ta
+1602,W01101.mp4,đàn kiến
+1603,W01103.mp4,đàn tơ-rưng
+1604,W01105.mp4,đàng trong
+1605,W01106.mp4,đáng quý
+1606,W01110.mp4,đánh giá
+1607,W01112.mp4,đánh răng
+1608,W01113.mp4,đánh trống
+1609,W01115.mp4,đào tạo
+1610,W01117.mp4,đảo Lý Sơn
+1611,W01118.mp4,đảo Phú Quốc
+1612,W01122.mp4,đặc biệt
+1613,W01122B.mp4,đặc biệt
+1614,W01122N.mp4,đặc biệt
+1615,W01122T.mp4,đặc biệt
+1616,W01124.mp4,đặc điểm
+1617,W01125.mp4,Đắk Lắk
+1618,W01126.mp4,đăng ký
+1619,W01127.mp4,đăng nhập
+1620,W01128.mp4,đằng sau
+1621,W01130.mp4,Đặng Văn Ngữ
+1622,W01131.mp4,đắt đỏ
+1623,W01132.mp4,đặt
+1624,W01134.mp4,đập
+1625,W01135.mp4,đất
+1626,W01137.mp4,đất màu mỡ
+1627,W01138.mp4,đất nặn
+1628,W01141.mp4,đầu gối
+1629,W01142.mp4,đầu hàng
+1630,W01143.mp4,đầu tàu
+1631,W01144.mp4,đầu tiên
+1632,W01145.mp4,đầu xuôi đuôi lọt
+1633,W01146.mp4,đấu tranh
+1634,W01149.mp4,đầy
+1635,W01150.mp4,đầy đủ
+1636,W01151.mp4,đầy tớ
+1637,W01152.mp4,đẩy
+1638,W01153B.mp4,đen láy (như đen nhánh)
+1639,W01153N.mp4,đen láy (như đen nhánh)
+1640,W01153T.mp4,đen láy (như đen nhánh)
+1641,W01154B.mp4,đèn báo giao thông
+1642,W01154N.mp4,đèn báo giao thông
+1643,W01154T.mp4,đèn báo giao thông
+1644,W01155B.mp4,đèn điện
+1645,W01155N.mp4,đèn điện
+1646,W01155T.mp4,đèn điện
+1647,W01159N.mp4,đèn pin
+1648,W01159T.mp4,đèn pin
+1649,W01161B.mp4,đèn vàng
+1650,W01161N.mp4,đèn vàng
+1651,W01162N.mp4,đèn xanh
+1652,W01162T.mp4,đèn xanh
+1653,W01164.mp4,đeo kính
+1654,W01165B.mp4,đèo Hải Vân
+1655,W01165N.mp4,đèo Hải Vân
+1656,W01165T.mp4,đèo Hải Vân
+1657,W01166.mp4,đèo
+1658,W01170.mp4,đẹp đẽ (như đẹp)
+1659,W01172.mp4,đẹp mê hồn
+1660,W01175.mp4,đề-ca-mét (dam)
+1661,W01176.mp4,đề-ca-mét vuông (dam2)
+1662,W01177B.mp4,đề nghị
+1663,W01177N.mp4,đề nghị
+1664,W01177T.mp4,đề nghị
+1665,W01179.mp4,đề tài
+1666,W01182.mp4,đề-xi-mét khối (dm3)
+1667,W01183.mp4,đề-xi-mét vuông (dm2)
+1668,W01184.mp4,đếm
+1669,W01185N.mp4,đền
+1670,W01186.mp4,Đền Hùng
+1671,W01188.mp4,đều đặn
+1672,W01190.mp4,đi
+1673,W01191.mp4,đi học
+1674,W01192.mp4,đĩa
+1675,W01193.mp4,đĩa DVD
+1676,W01194.mp4,địa cầu
+1677,W01196.mp4,địa đạo Củ Chi
+1678,W01197.mp4,địa điểm
+1679,W01199.mp4,địa lí
+1680,W01201.mp4,đích
+1681,W01203.mp4,điểm ở giữa đoạn thẳng
+1682,W01204.mp4,tấm lòng
+1683,W01205N.mp4,điện
+1684,W01205T.mp4,điện
+1685,W01207.mp4,Điện Biên Phủ
+1686,W01208.mp4,điện thoại
+1687,W01210.mp4,điêu khắc
+1688,W01211.mp4,quả điều
+1689,W01211N.mp4,quả điều
+1690,W01212B.mp4,điều phối
+1691,W01212N.mp4,điều phối
+1692,W01213T.mp4,điều hòa
+1693,W01214.mp4,điều khiển
+1694,W01215.mp4,điều kiện
+1695,W01216.mp4,điều tra
+1696,W01217.mp4,điều trị
+1697,W01219.mp4,đinh
+1698,W01224.mp4,đỉnh
+1699,W01225.mp4,đỉnh núi
+1700,W01226.mp4,định vị
+1701,W01227.mp4,đo
+1702,W01229.mp4,đoàn cải lương
+1703,W01232.mp4,đoàn tụ
+1704,W01234.mp4,đoán
+1705,W01235.mp4,đoạn thẳng
+1706,W01236.mp4,đoạn thơ
+1707,W01239.mp4,đọc sách
+1708,W01241.mp4,đón
+1709,W01242.mp4,đón tiếp
+1710,W01243.mp4,đóng cửa
+1711,W01246.mp4,đóng góp
+1712,W01248.mp4,đô thị
+1713,W01250.mp4,đồ dùng dạy học
+1714,W01251.mp4,đồ dùng học tập
+1715,W01254.mp4,độc hại
+1716,W01255.mp4,đôi dép
+1717,W01256.mp4,đổi
+1718,W01257.mp4,đối diện
+1719,W01258.mp4,đối tượng
+1720,W01259B.mp4,nhập ngũ
+1721,W01259N.mp4,nhập ngũ
+1722,W01259T.mp4,nhập ngũ
+1723,W01260.mp4,đội trưởng
+1724,W01261.mp4,đồn công an
+1725,W01262.mp4,Đông Nam
+1726,W01264.mp4,đồng bằng
+1727,W01265.mp4,đồng hồ
+1728,W01267.mp4,Đồng Tháp Mười
+1729,W01268.mp4,đổ nước
+1730,W01272.mp4,độc lập
+1731,W01273.mp4,đôi chân
+1732,W01274.mp4,đôi tay
+1733,W01277.mp4,đổi mới
+1734,W01279.mp4,đối thoại
+1735,W01280.mp4,đối xử
+1736,W01281.mp4,đối xứng
+1737,W01283.mp4,đội thiếu niên
+1738,W01284.mp4,trống (không có gì)
+1739,W01286.mp4,Đông Dương
+1740,W01287.mp4,đông lạnh
+1741,W01288.mp4,Đông Timor (nước Đông Timor)
+1742,W01293.mp4,đồng lúa
+1743,W01294B.mp4,đồng phục
+1744,W01294N.mp4,đồng phục
+1745,W01295.mp4,đồng ruộng
+1745,W01294T.mp4,đồng phục
+1747,W01296.mp4,đồng tiền
+1748,W01298.mp4,nhiệt độ
+1749,W01299.mp4,động cơ
+1750,W01301.mp4,tác động
+1751,W01302.mp4,động viên
+1752,W01304B.mp4,đợi
+1753,W01304N.mp4,đợi
+1754,W01304T.mp4,đợi
+1755,W01305.mp4,đơn giản
+1756,W01310.mp4,dung tích
+1757,W01314.mp4,đỡ
+1758,W01315.mp4,đua ngựa
+1759,W01316.mp4,đua thuyền
+1760,W01317.mp4,đua xe máy
+1761,W01318.mp4,đũa
+1762,W01321.mp4,đun nấu
+1763,W01323.mp4,đuôi
+1764,W01324.mp4,sa thải
+1765,W01325.mp4,đưa đón
+1766,W01326.mp4,đứng nghiêm
+1767,W01328.mp4,đựng
+1768,W01329.mp4,đường biên giới
+1769,W01331.mp4,đường cao
+1770,W01330.mp4,đường bộ
+1771,W01335.mp4,đường hàng không
+1772,W01336.mp4,đường hầm
+1773,W01337.mp4,đường kính
+1774,W01341.mp4,đường Nguyễn Huệ
+1775,W01343.mp4,đường sắt
+1776,W01344.mp4,đường thẳng
+1777,W01348B.mp4,e thẹn
+1778,W01348N.mp4,e thẹn
+1779,W01348T.mp4,e thẹn
+1780,W01349.mp4,em dâu
+1781,W01351B.mp4,em rể
+1782,W01351N.mp4,em rể
+1783,W01351T.mp4,em rể
+1784,W01352B.mp4,em trai
+1785,W01352T.mp4,em trai
+1786,W01354.mp4,email
+1787,W01357.mp4,Ê Đê
+1788,W01358.mp4,ế ẩm
+1789,W01360.mp4,Ê-ti-ô-pi-a (nước Ê-ti-ô-pi-a)
+1790,W01364B.mp4,ga tàu
+1791,W01364N.mp4,ga tàu
+1792,W01364T.mp4,ga tàu
+1793,W01365N.mp4,gà mái
+1794,W01366.mp4,gà rừng
+1795,W01367.mp4,gà tây
+1796,W01368.mp4,gà trống
+1797,W01375.mp4,gai
+1798,W01376.mp4,gãi đầu gãi tai
+1799,W01378N.mp4,gan dạ
+1800,W01381.mp4,gang tay
+1801,W01382.mp4,gánh
+1802,W01384B.mp4,gạo
+1803,W01384N.mp4,gạo
+1804,W01384T.mp4,gạo
+1805,W01385.mp4,gạo nếp
+1806,W01387.mp4,gãy chân
+1807,W01389.mp4,gáy
+1808,W01391.mp4,gặm xương (con chó gặm xương)
+1808,W01390.mp4,gặm cỏ
+1810,W01392.mp4,gắn bó
+1810,W01393.mp4,găng tay
+1812,W01394.mp4,gắp thức ăn
+1812,W01395.mp4,gặp gỡ
+1814,W01396.mp4,gặt lúa
+1814,W01397.mp4,gần gũi
+1816,W01399.mp4,gấp quần áo
+1817,W01400.mp4,gật đầu
+1818,W01401.mp4,gật gù
+1819,W01403N.mp4,gầy (miền Nam: ốm)
+1820,W01403T.mp4,gầy (miền Nam: ốm)
+1821,W01406.mp4,ghé thăm
+1822,W01407.mp4,ghép hình
+1823,W01410.mp4,ghi chép
+1824,W01411.mp4,ghi chú
+1825,W01412.mp4,ghi hình
+1826,W01413.mp4,ghi nhớ
+1827,W01415.mp4,Gia Lai
+1828,W01417T.mp4,giả bộ (giống giả vờ)
+1829,W01418.mp4,giả mạo
+1830,W01419.mp4,giả sử
+1831,W01423.mp4,giai đoạn
+1832,W01424.mp4,giải thích
+1833,W01426.mp4,giám sát
+1834,W01427.mp4,giàn mướp
+1835,W01429.mp4,giao hàng
+1836,W01430B.mp4,giao thông
+1837,W01430N.mp4,giao thông
+1838,W01432.mp4,giã
+1839,W01433B.mp4,giá trị
+1840,W01433N.mp4,giá trị
+1841,W01433T.mp4,giá trị
+1842,W01434B.mp4,giá trị phần trăm
+1843,W01434N.mp4,giá trị phần trăm
+1844,W01434T.mp4,giá trị phần trăm
+1845,W01435.mp4,giá trị tuyệt đối
+1846,W01437.mp4,giải lao
+1847,W01440.mp4,giải vô địch
+1848,W01441.mp4,giám đốc
+1849,W01442.mp4,giám khảo
+1850,W01443.mp4,gian khổ
+1851,W01444.mp4,giàn khoan
+1851,W01445.mp4,giàn nho
+1853,W01447B.mp4,gián tiếp
+1854,W01450.mp4,giao hoán
+1855,W01451.mp4,giao lưu
+1856,W01452.mp4,giao thừa
+1857,W01453B.mp4,giao tiếp
+1858,W01453N.mp4,giao tiếp
+1859,W01453T.mp4,giao tiếp
+1860,W01458.mp4,giáo sĩ
+1861,W01459.mp4,giàu có
+1862,W01462.mp4,giấc ngủ
+1863,W01464.mp4,giận dỗi
+1864,W01466.mp4,giật mình
+1865,W01467.mp4,giầy ba ta
+1866,W01468.mp4,giầy dép
+1867,W01469.mp4,giầy thể thao
+1868,W01470B.mp4,giấy
+1869,W01470N.mp4,giấy
+1870,W01471B.mp4,giấy ăn
+1871,W01471T.mp4,giấy ăn
+1872,W01472B.mp4,giấy màu
+1873,W01472N.mp4,giấy màu
+1874,W01472T.mp4,giấy màu
+1875,W01473B.mp4,giấy nháp
+1876,W01473N.mp4,giấy nháp
+1877,W01473T.mp4,giấy nháp
+1878,W01474.mp4,giấy tờ
+1879,W01476.mp4,giẻ lau
+1880,W01477.mp4,gieo xúc xắc
+1881,W01478.mp4,giếng nước
+1882,W01479.mp4,giết
+1883,W01482.mp4,gió Lào
+1884,W01485.mp4,giỏi
+1885,W01487.mp4,giọng nói
+1886,W01489.mp4,giông bão
+1887,W01491.mp4,giơ tay
+1888,W01494.mp4,giới thiệu
+1889,W01497B.mp4,giúp đỡ
+1890,W01497N.mp4,giúp đỡ
+1891,W01497T.mp4,giúp đỡ
+1892,W01501.mp4,góc bẹt
+1893,W01502.mp4,góc bếp
+1894,W01503.mp4,góc học tập
+1895,W01505.mp4,góc nhọn
+1896,W01506.mp4,góc tù
+1897,W01507.mp4,góc vuông
+1898,W01508.mp4,góc vườn
+1899,W01509.mp4,gói (đgt)
+1900,W01510.mp4,gói
+1901,W01511.mp4,gọi
+1902,W01512.mp4,gọn gàng
+1903,W01515.mp4,gọt bút chì
+1904,W01516B.mp4,gỗ
+1905,W01516N.mp4,gỗ
+1906,W01517.mp4,gốm sứ
+1907,W01518.mp4,gợi ý
+1908,W01520.mp4,gửi quà
+1909,W01523.mp4,gương
+1910,W01524.mp4,gương mặt
+1911,W01525.mp4,gương mẫu
+1912,W01526.mp4,Hà Giang
+1913,W01527.mp4,Hà Lan (nước Hà Lan)
+1914,W01532.mp4,hài hước
+1915,W01533.mp4,Hải Dương
+1915,W01534.mp4,hải đảo
+1917,W01536.mp4,hàm răng
+1917,W01537.mp4,hạn hán
+1919,W01540.mp4,hàng chục nghìn
+1919,W01539.mp4,hàng chục
+1921,W01541.mp4,hàng chục triệu
+1922,W01542.mp4,hàng dọc
+1923,W01543.mp4,hàng đơn vị
+1924,W01545.mp4,hàng ngang
+1925,W01547.mp4,hàng trăm
+1926,W01546.mp4,hàng nghìn
+1927,W01548.mp4,hàng trăm nghìn
+1928,W01550.mp4,hàng triệu
+1929,W01552.mp4,hàng xóm
+1930,W01554.mp4,hành động
+1931,W01556.mp4,hành lang
+1932,W01557B.mp4,hành quân
+1933,W01557N.mp4,hành quân
+1934,W01557T.mp4,hành quân
+1935,W01558.mp4,hành tinh
+1936,W01559.mp4,hành vi
+1937,W01560.mp4,hát ru
+1938,W01562.mp4,hạt
+1939,W01563.mp4,hạt cườm
+1940,W01566.mp4,hạt lạc
+1941,W01567.mp4,hạt lúa
+1942,W01568.mp4,hạt tiêu
+1943,W01569.mp4,hăng hái
+1944,W01570.mp4,hằng đẳng thức
+1945,W01573.mp4,hậu quả
+1946,W01575B.mp4,héc-ta (ha)
+1947,W01576B.mp4,héc-tô-gam (hg)
+1948,W01576N.mp4,héc-tô-gam (hg)
+1949,W01576T.mp4,héc-tô-gam (hg)
+1950,W01577T.mp4,héc-tô-mét (hm)
+1951,W01578N.mp4,héc-tô-mét vuông (hm2)
+1952,W01578T.mp4,héc-tô-mét vuông (hm2)
+1953,W01579.mp4,héo
+1954,W01580.mp4,hét (giống la)
+1955,W01582B.mp4,hệ thống
+1956,W01582N.mp4,hệ thống
+1957,W01582T.mp4,hệ thống
+1958,W01583B.mp4,hi sinh
+1959,W01583N.mp4,hi sinh
+1960,W01583T.mp4,hi sinh
+1961,W01584T.mp4,hi vọng
+1962,W01587.mp4,hiện đại
+1963,W01588.mp4,hiện nay
+1964,W01591B.mp4,hiểu
+1965,W01591N.mp4,hiểu
+1966,W01591T.mp4,hiểu
+1967,W01593.mp4,hiếu thảo
+1968,W01594.mp4,hiệu thuốc
+1969,W01595.mp4,hiệu (Toán học)
+1970,W01596.mp4,hiệu cầm đồ
+1971,W01599.mp4,hình
+1972,W01600.mp4,hình bình hành
+1973,W01601.mp4,hình cầu
+1974,W01602.mp4,hình chiếu
+1975,W01603.mp4,hình dáng
+1976,W01604.mp4,hình elip
+1977,W01606.mp4,hình hộp chữ nhật
+1978,W01610.mp4,hình phạt
+1979,W01612.mp4,hình thang
+1980,W01616.mp4,hình trụ
+1981,W01618.mp4,hình vẽ
+1982,W01619B.mp4,hoa
+1983,W01619N.mp4,hoa
+1984,W01619T.mp4,hoa
+1985,W01620.mp4,hoa cúc
+1986,W01621.mp4,hoa đào
+1987,W01622.mp4,hoa hồng
+1988,W01625.mp4,hoa lay ơn
+1989,W01629B.mp4,hoa sen
+1990,W01629N.mp4,hoa sen
+1991,W01629T.mp4,hoa sen
+1992,W01634.mp4,hòa bình
+1993,W01637.mp4,hòa nhập
+1994,W01638.mp4,họa sỹ
+1995,W01641.mp4,hoàn thành
+1996,W01645.mp4,hoàng đế
+1997,W01646.mp4,hoàng hôn
+1998,W01649.mp4,Hoàng tử
+1999,W01650.mp4,hoảng sợ
+2000,W01651B.mp4,hoạt động
+2001,W01655B.mp4,hoạt hình
+2002,W01655N.mp4,hoạt hình
+2003,W01655T.mp4,hoạt hình
+2004,W01656.mp4,học giỏi
+2005,W01658.mp4,học sinh Miền Nam
+2006,W01659.mp4,học trung bình
+2007,W01660.mp4,hỏi han
+2008,W01661.mp4,hòn đá
+2009,W01662.mp4,hót rác
+2010,W01665.mp4,học bổng
+2011,W01666.mp4,học kém
+2012,W01668.mp4,học nhóm
+2013,W01669.mp4,học phí
+2014,W01670.mp4,học tập
+2015,W01671.mp4,học trò
+2016,W01673B.mp4,hỏi thăm
+2017,W01674B.mp4,hòn bi (giống viên bi)
+2018,W01675B.mp4,hỏng
+2019,W01675N.mp4,hỏng
+2020,W01675T.mp4,hỏng
+2021,W01676.mp4,họng
+2022,W01677B.mp4,họp
+2023,W01677N.mp4,họp
+2024,W01677T.mp4,họp
+2025,W01678.mp4,hót
+2026,W01679.mp4,hót rác (cái hót rác)
+2027,W01681.mp4,Hồ Chí Minh
+2028,W01682.mp4,hồ dán
+2029,W01684.mp4,hồ Hoàn Kiếm
+2030,W01686.mp4,hồ nước
+2031,W01690B.mp4,hồi hộp
+2032,W01690N.mp4,hồi hộp
+2033,W01690T.mp4,hồi hộp
+2034,W01692B.mp4,hối hận
+2035,W01692N.mp4,hối hận
+2036,W01692T.mp4,hối hận
+2037,W01693.mp4,hối lộ
+2038,W01695B.mp4,hội nghị
+2039,W01696.mp4,hội thảo
+2040,W01696N.mp4,hội thảo
+2041,W01698.mp4,hội trường
+2042,W01700.mp4,hôn
+2043,W01701.mp4,hỗn số
+2044,W01702.mp4,hộp
+2045,W01703.mp4,hộp bút
+2046,W01704.mp4,hộp sữa
+2047,W01706.mp4,hơi nước
+2048,W01707B.mp4,hợp đồng
+2049,W01707T.mp4,hợp đồng
+2050,W01709.mp4,hợp tác
+2051,W01710.mp4,huân chương
+2052,W01711.mp4,hung ác
+2053,W01714.mp4,Hung-ga-ri (nước Hung-ga-ri)
+2054,W01715.mp4,Hùng Vương
+2055,W01716.mp4,hút nước
+2056,W01717.mp4,hút thuốc lá
+2057,W01718.mp4,huy hiệu
+2058,W01719.mp4,huỷ diệt
+2059,W01721B.mp4,huyện
+2060,W01721N.mp4,huyện
+2061,W01721T.mp4,huyện
+2062,W01723.mp4,Hưng Yên
+2063,W01724.mp4,hướng dẫn
+2064,W01725.mp4,muối i-ốt
+2065,W01726.mp4,I-rắc (nước I-rắc)
+2066,W01727.mp4,ích lợi
+2067,W01728B.mp4,in (ấn)
+2068,W01730.mp4,ít
+2069,W01731.mp4,ít hơn
+2070,W01732.mp4,ít nhất
+2071,W01733.mp4,Italia (nước Italia)
+2072,W01734.mp4,kẻ cắp
+2073,W01735.mp4,kèn
+2074,W01737.mp4,kẻ thù
+2075,W01738N.mp4,kém
+2076,W01738T.mp4,kém
+2077,W01739.mp4,keo kiệt
+2078,W01743B.mp4,kẹo
+2079,W01743N.mp4,kẹo
+2080,W01743T.mp4,kẹo
+2081,W01744.mp4,kẹp
+2082,W01746.mp4,kể chuyện
+2083,W01751.mp4,kết hợp
+2084,W01754B.mp4,kết quả
+2085,W01754N.mp4,kết quả
+2086,W01754T.mp4,kết quả
+2087,W01755.mp4,kêu
+2088,W01756.mp4,kêu gọi
+2089,W01757.mp4,khác
+2090,W01758.mp4,khách
+2091,W01759.mp4,khách mời
+2092,W01760.mp4,khách sạn
+2093,W01761.mp4,khách vip
+2094,W01764.mp4,hoang mang
+2095,W01767.mp4,khám bệnh
+2096,W01768.mp4,khám phá
+2097,W01770.mp4,kháng cự
+2098,W01772.mp4,Khánh Hòa
+2099,W01777.mp4,khăn mặt
+2100,W01779.mp4,khăn quàng
+2101,W01783.mp4,khâm phục
+2102,W01784.mp4,khâu vá
+2103,W01785.mp4,khẩu hiệu
+2104,W01786.mp4,khẩu trang
+2105,W01787.mp4,khe cửa
+2106,W01788.mp4,khe núi
+2107,W01789.mp4,khen
+2108,W01791.mp4,khen tặng
+2109,W01792.mp4,khéo
+2110,W01794.mp4,khí cầu
+2111,W01796.mp4,khiêm tốn
+2112,W01800.mp4,khiêng
+2113,W01803B.mp4,khó khăn
+2114,W01803N.mp4,khó khăn
+2115,W01806.mp4,khóa quần
+2116,W01807.mp4,khoác vai
+2117,W01808.mp4,khoan (cái khoan)
+2118,W01809.mp4,khoảng cách
+2119,W01810.mp4,khoá (cái khóa)
+2120,W01811.mp4,khóa cửa
+2121,W01813.mp4,khoác áo
+2122,W01814.mp4,khoác tay
+2123,W01815.mp4,khoan
+2124,W01816.mp4,khoang tàu
+2125,W01820.mp4,khoanh tay
+2126,W01821.mp4,khóc
+2127,W01822.mp4,khoe
+2128,W01823.mp4,khoẻ mạnh
+2129,W01824B.mp4,khỏi bệnh
+2130,W01824N.mp4,khỏi bệnh
+2131,W01824T.mp4,khỏi bệnh
+2132,W01825.mp4,khói
+2133,W01826.mp4,khóm dứa
+2134,W01827.mp4,bụi tre
+2135,W01828.mp4,khô héo
+2136,W01831.mp4,cầu Long Biên
+2137,W01832.mp4,khối lượng
+2138,W01833.mp4,không gian
+2139,W01834.mp4,không thẳng hàng
+2140,W01835.mp4,khổng lồ
+2141,W01836.mp4,khố
+2142,W01840N.mp4,không hiểu
+2143,W01841.mp4,không khí
+2144,W01842N.mp4,khổ
+2145,W01847.mp4,khớp xương
+2146,W01851.mp4,khu vườn
+2147,W01852.mp4,vực sâu
+2148,W01854.mp4,khúc khuỷu
+2149,W01856.mp4,khung cửa số
+2150,W01858.mp4,khuôn hình
+2151,W01859.mp4,khuy
+2152,W01860.mp4,khuyên tai
+2153,W01861.mp4,kì diệu
+2154,W01863.mp4,kí duyệt
+2155,W01864.mp4,ki-lô-gam
+2156,W01865.mp4,ki-lô-mét vuông (km2)
+2157,W01866B.mp4,kỉ niệm
+2158,W01866N.mp4,kỉ niệm
+2159,W01866T.mp4,kỉ niệm
+2160,W01867.mp4,kí hiệu
+2161,W01871.mp4,kỉ luật
+2162,W01872B.mp4,kí tên
+2163,W01872N.mp4,kí tên
+2164,W01872T.mp4,kí tên
+2165,W01876.mp4,kịch bản
+2166,W01878N.mp4,kiểm tra
+2167,W01878T.mp4,kiểm tra
+2168,W01879.mp4,kiếm (cái kiếm)
+2169,W01881.mp4,Kiên Giang
+2170,W01883.mp4,kiên trì (giống: kiên nhẫn)
+2171,W01886.mp4,kiến trúc
+2172,W01887.mp4,kiến trúc sư
+2173,W01888.mp4,"kiêu (kiêu căng, kiêu xa)"
+2174,W01890.mp4,kim
+2175,W01897.mp4,kinh ngạc
+2176,W01898B.mp4,kinh nghiệm
+2177,W01898N.mp4,kinh nghiệm
+2178,W01898T.mp4,kinh nghiệm
+2179,W01900.mp4,kính
+2180,W01902.mp4,kính hiển vi
+2181,W01903.mp4,kính lão
+2182,W01904.mp4,kính lúp
+2183,W01906.mp4,kính trọng
+2184,W01908.mp4,Kon Tum
+2185,W01909.mp4,la bàn
+2186,W01910.mp4,la hét
+2187,W01911B.mp4,là gì?
+2188,W01911N.mp4,là gì?
+2189,W01911T.mp4,là gì?
+2190,W01912B.mp4,lá cây
+2191,W01912N.mp4,lá cây
+2192,W01913.mp4,lá thư
+2193,W01914.mp4,Lạc Long Quân
+2194,W01915.mp4,lạc quan
+2195,W01920B.mp4,lái tàu hỏa
+2196,W01920T.mp4,lái tàu hỏa
+2197,W01924.mp4,làm bài tập
+2198,W01924N.mp4,làm bài tập
+2199,W01925B.mp4,làm quen
+2200,W01928.mp4,làm việc
+2201,W01930.mp4,lang thang
+2202,W01932.mp4,làn sóng
+2203,W01942.mp4,lãnh đạo
+2204,W01943.mp4,thổ dân
+2205,W01944.mp4,lao phổi
+2206,W01945B.mp4,Lào (nước Lào)
+2207,W01945N.mp4,Lào (nước Lào)
+2208,W01945T.mp4,Lào (nước Lào)
+2209,W01947.mp4,lão già
+2210,W01948.mp4,lau chùi
+2211,W01949.mp4,lau khô
+2212,W01950.mp4,lau nhà
+2213,W01951.mp4,lắc đầu
+2214,W01953.mp4,lăng Bác Hồ
+2215,W01955.mp4,lắng nghe
+2216,W01956.mp4,lặn
+2217,W01957.mp4,lặng lẽ
+2218,W01960.mp4,lắp ráp
+2219,W01961.mp4,Lâm Đồng
+2220,W01962.mp4,lẫn lộn
+2221,W01964.mp4,lầu (tầng)
+2222,W01966.mp4,lây bệnh
+2223,W01967.mp4,lây nhiễm
+2224,W01970.mp4,lấy
+2225,W01973.mp4,leo trèo
+2226,W01977.mp4,lễ bế giảng
+2227,W01977B.mp4,lễ bế giảng
+2228,W01978N.mp4,lễ hội
+2229,W01978T.mp4,lễ hội
+2230,W01979B.mp4,lễ Nô-en
+2231,W01979T.mp4,lễ Nô-en
+2232,W01982B.mp4,lễ hội hóa trang
+2233,W01982N.mp4,lễ hội hóa trang
+2234,W01982T.mp4,lễ hội hóa trang
+2235,W01983.mp4,lễ phép
+2236,W01984.mp4,lễ vật
+2237,W01986.mp4,lên đường
+2238,W01987.mp4,lên ngôi
+2239,W01989.mp4,lên xe
+2240,W01991.mp4,lều trại
+2241,W01992.mp4,lí do
+2242,W01996B.mp4,Liên Bang Nga (nước Nga)
+2243,W01996N.mp4,Liên Bang Nga (nước Nga)
+2244,W01996T.mp4,Liên Bang Nga (nước Nga)
+2245,W01998B.mp4,liên hoan
+2246,W01998N.mp4,liên hoan
+2247,W01998T.mp4,liên hoan
+2248,W01999.mp4,liên kết
+2249,W02000B.mp4,liên lạc
+2250,W02000N.mp4,liên lạc
+2251,W02000T.mp4,liên lạc
+2252,W02001B.mp4,liên quan
+2253,W02001N.mp4,liên quan
+2254,W02001T.mp4,liên quan
+2255,W02002.mp4,liên tục
+2256,W02005.mp4,liệt (liệt tay chân)
+2257,W02006.mp4,liều lĩnh
+2258,W02008.mp4,liều mình
+2259,W02010.mp4,linh hồn
+2260,W02011.mp4,lĩnh hội
+2261,W02012B.mp4,lĩnh vực
+2262,W02012N.mp4,lĩnh vực
+2263,W02016.mp4,lo sợ
+2264,W02020.mp4,lọ mực
+2265,W02021.mp4,loa
+2266,W02024B.mp4,loài vật
+2267,W02024N.mp4,loài vật
+2268,W02024T.mp4,loài vật
+2269,W02025.mp4,loạn thị
+2270,W02026.mp4,lon bia
+2271,W02027.mp4,Long An
+2272,W02032.mp4,lọng
+2273,W02035.mp4,lỗi chính tả
+2274,W02036.mp4,lỗi lầm
+2275,W02037.mp4,lối đi
+2276,W02039.mp4,lông
+2277,W02040.mp4,lông gà
+2278,W02042.mp4,lồng chim
+2279,W02043.mp4,lồng tiếng
+2280,W02046.mp4,lơ lửng
+2281,W02047.mp4,lời giải
+2282,W02048.mp4,lời nói
+2283,W02049.mp4,lợi ích
+2284,W02052.mp4,lớp
+2285,W02055.mp4,lớp phó
+2286,W02057.mp4,lớp trưởng
+2287,W02059.mp4,lũ quét
+2288,W02060.mp4,lúa
+2289,W02064N.mp4,luật chơi
+2290,W02064T.mp4,luật chơi
+2291,W02065.mp4,luật lệ
+2292,W02066B.mp4,lúc nào
+2293,W02066N.mp4,lúc nào
+2294,W02066T.mp4,lúc nào
+2295,W02067.mp4,lục địa
+2296,W02068.mp4,lục giác
+2297,W02070.mp4,lùi bước
+2298,W02071.mp4,lúng túng
+2299,W02073.mp4,lũy tre
+2300,W02075.mp4,luyện từ và câu
+2301,W02076.mp4,lửa
+2302,W02077.mp4,lược
+2303,W02078B.mp4,lười
+2304,W02078N.mp4,lười
+2305,W02078T.mp4,lười
+2306,W02079B.mp4,lười học
+2307,W02079N.mp4,lười học
+2308,W02079T.mp4,lười học
+2309,W02081.mp4,lưỡi câu
+2310,W02083.mp4,lưới
+2311,W02084.mp4,lượm
+2312,W02090.mp4,lương thực
+2313,W02091.mp4,lướt ván
+2314,W02096.mp4,cây thông
+2315,W02097.mp4,dự trữ
+2316,W02099.mp4,lựu
+2317,W02100.mp4,lựu đạn
+2318,W02104.mp4,ma
+2319,W02105.mp4,ma cà rồng
+2320,W02106.mp4,ma quỷ
+2321,W02107.mp4,ma sát
+2322,W02108.mp4,ma túy
+2323,W02110.mp4,má (giống: mẹ)
+2324,W02113.mp4,mạch máu
+2325,W02116.mp4,mái chèo
+2326,W02117.mp4,mái hiên
+2327,W02118.mp4,mái nhà
+2328,W02120B.mp4,màn
+2329,W02120N.mp4,màn
+2330,W02120T.mp4,màn
+2331,W02125.mp4,mạng lưới
+2332,W02129.mp4,mạnh bạo (giống: mạnh dạn)
+2333,W02132.mp4,màu cam
+2334,W02133B.mp4,màu đen
+2335,W02134.mp4,màu đỏ
+2336,W02137N.mp4,màu nâu
+2337,W02137T.mp4,màu nâu
+2338,W02138.mp4,màu nhiệm
+2339,W02140B.mp4,màu trắng
+2340,W02140N.mp4,màu trắng
+2341,W02140T.mp4,màu trắng
+2342,W02142B.mp4,màu xanh da trời
+2343,W02142N.mp4,màu xanh da trời
+2344,W02142T.mp4,màu xanh da trời
+2345,W02143B.mp4,màu xanh lá cây
+2346,W02143N.mp4,màu xanh lá cây
+2347,W02143T.mp4,màu xanh lá cây
+2348,W02144.mp4,má
+2349,W02145.mp4,máy ảnh
+2350,W02146.mp4,máy bơm
+2351,W02147.mp4,máy chiếu
+2352,W02148B.mp4,máy in
+2353,W02148N.mp4,máy in
+2354,W02148T.mp4,máy in
+2355,W02149.mp4,máy khâu
+2356,W02151.mp4,máy tính (laptop)
+2357,W02152.mp4,máy tính bỏ túi
+2358,W02155.mp4,mắc áo
+2359,W02156.mp4,mặc
+2360,W02159.mp4,mặc kệ
+2361,W02160.mp4,mặc quần áo
+2362,W02161.mp4,mắm
+2363,W02162.mp4,măng
+2364,W02164B.mp4,mắng
+2365,W02164N.mp4,mắng
+2366,W02164T.mp4,mắng
+2367,W02166.mp4,mặt
+2368,W02171.mp4,mặt đất
+2369,W02173.mp4,mặt nạ
+2370,W02172.mp4,mặt vuông
+2371,W02175.mp4,mặt dài
+2372,W02177.mp4,mâm cơm
+2373,W02178B.mp4,mâm ngũ quả
+2374,W02178N.mp4,mâm ngũ quả
+2375,W02178T.mp4,mâm ngũ quả
+2376,W02181.mp4,mầm non
+2377,W02182.mp4,mất ngủ
+2378,W02183.mp4,mất trí
+2379,W02187B.mp4,mật khẩu
+2380,W02187N.mp4,mật khẩu
+2381,W02187T.mp4,mật khẩu
+2382,W02189.mp4,mật ong
+2383,W02191.mp4,mẫu số
+2384,W02193.mp4,mẫu số chung
+2385,W02194.mp4,mẫu số lớn
+2386,W02195.mp4,mây
+2387,W02196.mp4,mấy giờ?
+2388,W02197.mp4,mét (m)
+2389,W02198.mp4,mét khối (m3)
+2390,W02199.mp4,mét vuông (m2)
+2391,W02200B.mp4,Mexico (nước Mexico)
+2392,W02200N.mp4,Mexico (nước Mexico)
+2393,W02200T.mp4,Mexico (nước Mexico)
+2394,W02202.mp4,mê say (như: say mê)
+2395,W02203.mp4,mê tín
+2396,W02204.mp4,mềm mại
+2397,W02205.mp4,mênh mông
+2398,W02211.mp4,miền Bắc Việt Nam
+2399,W02212.mp4,miền Nam Việt Nam
+2400,W02214.mp4,miêu tả
+2401,W02215.mp4,minh hoạ
+2402,W02217.mp4,khoan (khoan đã)
+2403,W02218.mp4,móc áo
+2404,W02219.mp4,Mặt trời mọc
+2405,W02220.mp4,mõm
+2406,W02221B.mp4,muốn
+2407,W02221N.mp4,muốn
+2408,W02221T.mp4,muốn
+2409,W02223.mp4,móng chân
+2410,W02225.mp4,móng tay
+2411,W02227.mp4,mô hình
+2412,W02229.mp4,mồ côi
+2413,W02230.mp4,mồ côi cha mẹ
+2414,W02231.mp4,mồ hôi
+2415,W02234.mp4,mộc nhĩ
+2416,W02235.mp4,môi
+2417,W02236.mp4,môi trường
+2418,W02237.mp4,mỗi
+2419,W02238.mp4,môn Âm nhạc
+2420,W02239B.mp4,môn Đạo đức
+2421,W02239T.mp4,môn Đạo đức
+2422,W02240N.mp4,môn Giáo dục công dân
+2423,W02241.mp4,môn Giáo dục thể chất
+2424,W02242.mp4,môn Khoa học
+2425,W02243.mp4,môn Kĩ thuật
+2426,W02243B.mp4,môn Kĩ thuật
+2427,W02243N.mp4,môn Kĩ thuật
+2428,W02243T.mp4,môn Kĩ thuật
+2429,W02244B.mp4,môn Lịch sử
+2430,W02244N.mp4,môn Lịch sử
+2431,W02244T.mp4,môn Lịch sử
+2432,W02247.mp4,môn Sinh học
+2433,W02248.mp4,môn Tiếng Việt
+2434,W02250.mp4,môn Toán
+2435,W02251.mp4,môn Tự nhiên và Xã hội
+2436,W02252.mp4,một cặp
+2437,W02253.mp4,một đôi
+2438,W02254.mp4,một mình
+2439,W02255.mp4,mơ ngủ
+2440,W02256.mp4,mơ ước
+2441,W02257.mp4,mở
+2442,W02258.mp4,mở cửa
+2443,W02259.mp4,mở đầu
+2444,W02260.mp4,mở màn
+2445,W02261.mp4,mở rộng
+2446,W02262.mp4,mớ rau
+2447,W02263.mp4,mời
+2448,W02264B.mp4,mới
+2449,W02264N.mp4,mới
+2450,W02264T.mp4,mới
+2451,W02265.mp4,mũ lưỡi trai
+2452,W02267.mp4,mua vé
+2453,W02270B.mp4,mùa hè
+2454,W02270N.mp4,mùa hè
+2455,W02270T.mp4,mùa hè
+2456,W02271.mp4,mùa thu
+2457,W02272N.mp4,mùa xuân
+2458,W02272T.mp4,mùa xuân
+2459,W02273.mp4,múa rối
+2460,W02276.mp4,múa
+2461,W02277.mp4,múa lân
+2462,W02278.mp4,múa sạp
+2463,W02279.mp4,mục lục
+2464,W02280.mp4,mui xe
+2465,W02283.mp4,mứt
+2466,W02284.mp4,Nam bán cầu
+2467,W02285.mp4,Nam Định
+2468,W02289.mp4,nạn nhân
+2469,W02290.mp4,"náo động, náo nhiệt"
+2470,W02292B.mp4,nạp điện
+2471,W02292N.mp4,nạp điện
+2472,W02292T.mp4,nạp điện
+2473,W02295.mp4,nằm
+2474,W02296.mp4,nắn nót
+2475,W02297.mp4,năng khiếu
+2476,W02298.mp4,năng lực
+2477,W02301.mp4,nặng hơn
+2478,W02302.mp4,nắp
+2479,W02304.mp4,nẻ
+2480,W02305.mp4,nén
+2481,W02311.mp4,nét mặt
+2482,W02321.mp4,nếm
+2483,W02322.mp4,nền nhà
+2484,W02323.mp4,nến
+2485,W02324.mp4,ngà voi
+2486,W02325.mp4,ngã ba
+2487,W02327B.mp4,ngày khai trường
+2488,W02328N.mp4,ngày Nhà giáo Việt nam
+2489,W02328T.mp4,ngày Nhà giáo Việt nam
+2490,W02329B.mp4,ngày tháng
+2491,W02329T.mp4,ngày tháng
+2492,W02330.mp4,ngã
+2493,W02332.mp4,ngạc nhiên
+2494,W02334.mp4,ngày đêm
+2495,W02336B.mp4,ngày nay
+2496,W02336N.mp4,ngày nay
+2497,W02336T.mp4,ngày nay
+2498,W02337B.mp4,ngày Quốc tế Lao động
+2499,W02337N.mp4,ngày Quốc tế Lao động
+2500,W02337T.mp4,ngày Quốc tế Lao động
+2501,W02338B.mp4,ngày sinh
+2502,W02338N.mp4,ngày sinh
+2503,W02339.mp4,ngày xưa
+2504,W02340.mp4,ngăn cản
+2505,W02342.mp4,ngăn chặn
+2506,W02343.mp4,ngắn
+2507,W02344.mp4,ngắn nhất
+2508,W02345B.mp4,ngắt hoa
+2509,W02346.mp4,ngâm hạt
+2510,W02348.mp4,ngân hàng
+2511,W02352.mp4,ngây thơ
+2512,W02353.mp4,nghe
+2513,W02354B.mp4,nghé
+2514,W02354N.mp4,nghé
+2515,W02355.mp4,nghẹn ngào
+2516,W02356.mp4,nghệ sĩ
+2517,W02357B.mp4,nghệ thuật
+2518,W02357N.mp4,nghệ thuật
+2519,W02357T.mp4,nghệ thuật
+2520,W02359B.mp4,nghi ngờ
+2521,W02359N.mp4,nghi ngờ
+2522,W02359T.mp4,nghi ngờ
+2523,W02360B.mp4,nghỉ hè
+2524,W02360N.mp4,nghỉ hè
+2525,W02360T.mp4,nghỉ hè
+2526,W02361B.mp4,nghỉ học
+2527,W02361N.mp4,nghỉ học
+2528,W02361T.mp4,nghỉ học
+2529,W02362.mp4,nghỉ hưu
+2530,W02363.mp4,nghỉ mát
+2531,W02364.mp4,nghỉ ngơi
+2532,W02366.mp4,nghĩa đen
+2533,W02368.mp4,nghĩ
+2534,W02369.mp4,nghị lực
+2535,W02371.mp4,nghĩa trang
+2536,W02373B.mp4,nghiêm khắc
+2537,W02373T.mp4,nghiêm khắc
+2538,W02374.mp4,nghiêm túc
+2539,W02375.mp4,nghiến răng
+2540,W02378.mp4,ngoại hình
+2541,W02380.mp4,xâm hại tình dục
+2542,W02381.mp4,ngoan ngoãn
+2543,W02383.mp4,ngoặc đơn
+2544,W02385.mp4,ngoằn ngoèo
+2545,W02387.mp4,ngói
+2546,W02388.mp4,ngon giấc
+2547,W02390.mp4,ngon miệng
+2548,W02392.mp4,ngón chân
+2549,W02393.mp4,ngón tay
+2550,W02394B.mp4,ngọn cây
+2551,W02394N.mp4,ngọn cây
+2552,W02395T.mp4,ngô
+2553,W02398.mp4,ngộ độc
+2554,W02399.mp4,ngộ nghĩnh
+2555,W02400N.mp4,ngồi
+2556,W02400T.mp4,ngồi
+2557,W02401.mp4,ngôn ngữ
+2558,W02402B.mp4,ngũ quả
+2559,W02402N.mp4,ngũ quả
+2560,W02403.mp4,nguệch ngoạc
+2561,W02404.mp4,nguồn gốc
+2562,W02405B.mp4,nguy hiểm
+2563,W02405N.mp4,nguy hiểm
+2564,W02405T.mp4,nguy hiểm
+2565,W02418.mp4,nguyện vọng
+2566,W02421.mp4,ngữ điệu
+2567,W02422.mp4,ngước nhìn
+2568,W02424.mp4,ngược lại
+2569,W02426.mp4,người bán hàng
+2570,W02428.mp4,người gửi
+2571,W02430B.mp4,người lái xe (ô tô)
+2572,W02430N.mp4,người lái xe (ô tô)
+2573,W02430T.mp4,người lái xe (ô tô)
+2574,W02431.mp4,người lạ
+2575,W02433.mp4,người nhận
+2576,W02435B.mp4,người quen
+2577,W02435N.mp4,người quen
+2578,W02435T.mp4,người quen
+2579,W02437B.mp4,người xấu
+2580,W02437N.mp4,người xấu
+2581,W02438B.mp4,người xưa
+2582,W02438N.mp4,người xưa
+2583,W02438T.mp4,người xưa
+2584,W02439B.mp4,người yêu
+2585,W02439N.mp4,người yêu
+2586,W02439T.mp4,người yêu
+2587,W02441.mp4,nhà bác học
+2588,W02447.mp4,nhà sàn
+2589,W02448.mp4,nhà tầng
+2590,W02450.mp4,nhà thờ
+2591,W02451.mp4,nhà thờ Đức Bà
+2592,W02453.mp4,nhà toán học
+2593,W02455N.mp4,nhà trường
+2594,W02455T.mp4,nhà trường
+2595,W02461B.mp4,nhãn vở
+2596,W02461N.mp4,nhãn vở
+2597,W02461T.mp4,nhãn vở
+2598,W02463.mp4,nhào lộn
+2599,W02464.mp4,nhát gan
+2600,W02465.mp4,nhảy cao
+2601,W02466.mp4,nhảy dù
+2602,W02467.mp4,nhảy múa
+2603,W02469.mp4,nhạy cảm
+2604,W02470.mp4,nhắc nhở
+2605,W02472.mp4,nhặt rau
+2606,W02473B.mp4,nhân (Toán học)
+2607,W02473N.mp4,nhân (Toán học)
+2608,W02473T.mp4,nhân (Toán học)
+2609,W02476.mp4,nhân cách hoá
+2610,W02477.mp4,nhân chứng
+2611,W02478.mp4,nhân dân
+2612,W02479N.mp4,nhân hậu
+2613,W02479T.mp4,nhân hậu
+2614,W02481.mp4,nhân vật
+2615,W02485.mp4,nhận
+2616,W02487.mp4,nhận xét
+2617,W02488.mp4,nhấp nháy
+2618,W02490B.mp4,nhập trường
+2619,W02490N.mp4,nhập trường
+2620,W02490T.mp4,nhập trường
+2621,W02492B.mp4,Nhật (nước Nhật)
+2622,W02492N.mp4,Nhật (nước Nhật)
+2623,W02492T.mp4,Nhật (nước Nhật)
+2624,W02493.mp4,nhẹ hơn
+2625,W02494.mp4,nhẹ nhàng
+2626,W02495.mp4,nhi đồng
+2627,W02497N.mp4,nhiệt kế
+2628,W02497T.mp4,nhiệt kế
+2629,W02499.mp4,nhìn
+2630,W02500.mp4,nhỏ/ nhỏ bé
+2631,W02501.mp4,nhỏ hơn
+2632,W02502.mp4,nhỏ tuổi
+2633,W02503.mp4,nhóm
+2634,W02504.mp4,nhọn
+2635,W02505.mp4,nhọn hoắt
+2636,W02508.mp4,nhu cầu
+2637,W02512.mp4,nhụy hoa
+2638,W02513.mp4,như hình với bóng
+2639,W02514.mp4,nhược điểm
+2640,W02515.mp4,nhường nhịn
+2641,W02517.mp4,niềm vui
+2642,W02519.mp4,Ninh Thuận
+2643,W02520B.mp4,no
+2644,W02520N.mp4,no
+2645,W02520T.mp4,no
+2646,W02521.mp4,nỏ
+2647,W02522.mp4,nóc nhà
+2648,W02523.mp4,nói chuyện
+2649,W02526.mp4,nói leo
+2650,W02527.mp4,nón
+2651,W02528.mp4,nô lệ
+2652,W02529.mp4,nổ lốp xe
+2653,W02530.mp4,nổ mìn
+2654,W02531.mp4,nổ súng
+2655,W02532.mp4,nồi
+2656,W02534.mp4,nồi cơm điện
+2657,W02535.mp4,nổi bật
+2658,W02536.mp4,nổi dậy
+2659,W02537.mp4,nổi giận
+2660,W02538.mp4,nổi nóng
+2661,W02540B.mp4,nội dung
+2662,W02540N.mp4,nội dung
+2663,W02540T.mp4,nội dung
+2664,W02541.mp4,nội quy
+2665,W02544.mp4,nông nghiệp
+2666,W02546.mp4,nông thôn
+2667,W02548.mp4,nốt ruồi
+2668,W02550.mp4,nơi chốn
+2669,W02551.mp4,núi lửa
+2670,W02554.mp4,nước mắt
+2671,W02555B.mp4,nước Việt nam
+2672,W02555N.mp4,nước Việt nam
+2673,W02555T.mp4,nước Việt nam
+2674,W02556.mp4,Oa-sinh-tơn
+2675,W02557.mp4,óc
+2676,W02558.mp4,ô ăn quan
+2677,W02559.mp4,ô nhiễm
+2678,W02561.mp4,ô tô
+2679,W02564.mp4,ốc vít
+2680,W02565.mp4,ôm
+2681,W02567.mp4,ốm đau
+2682,W02569.mp4,ôn luyện
+2683,W02570.mp4,ôn tập
+2684,W02571.mp4,ổn định
+2685,W02572.mp4,ông già
+2686,W02575N.mp4,ông ngoại
+2686,W02575B.mp4,ông ngoại
+2688,W02575T.mp4,ông ngoại
+2688,W02576B.mp4,ông nội
+2690,W02576N.mp4,ông nội
+2690,W02576T.mp4,ông nội
+2692,W02577.mp4,ống nghe
+2693,W02578.mp4,ống nhòm
+2694,W02579.mp4,ống nước
+2695,W02580B.mp4,ở ngoài
+2696,W02580N.mp4,ở ngoài
+2697,W02581.mp4,ở trong
+2698,W02582.mp4,Pa-ki-xtan (nước Pa-ki-xtan)
+2699,W02583.mp4,Pê-ru (nước Pê-ru)
+2700,W02584.mp4,pha cà phê
+2701,W02585.mp4,pha chế
+2702,W02586.mp4,pha lê
+2703,W02587.mp4,phà
+2704,W02589B.mp4,phá
+2705,W02589T.mp4,phá
+2706,W02597B.mp4,phản bội
+2707,W02597N.mp4,phản bội
+2708,W02597T.mp4,phản bội
+2709,W02598.mp4,phản động
+2710,W02600.mp4,phản xạ
+2711,W02602.mp4,phao
+2712,W02605.mp4,pháo hoa
+2713,W02606.mp4,pháo sáng
+2714,W02608.mp4,phát biểu
+2715,W02609.mp4,phát động
+2716,W02610.mp4,phát hiện
+2717,W02614.mp4,phân công
+2718,W02615.mp4,phân loại
+2719,W02617.mp4,hai phân số bằng nhau
+2720,W02618.mp4,phân số thập phân
+2721,W02619.mp4,phân số tối giản
+2722,W02620.mp4,phân tích
+2723,W02626.mp4,giữ nguyên
+2724,W02628.mp4,phần trăm
+2725,W02630N.mp4,phấn (viết bảng)
+2726,W02630T.mp4,phấn (viết bảng)
+2727,W02631.mp4,phấn đấu
+2728,W02634.mp4,phấn trang điểm
+2729,W02635.mp4,phấp phới
+2730,W02637.mp4,phật (tượng)
+2731,W02641.mp4,phép tính
+2732,W02643.mp4,phê bình
+2733,W02644.mp4,phễu
+2734,W02645.mp4,phi công
+2735,W02647.mp4,phi ngựa
+2736,W02648.mp4,phi tiêu
+2737,W02651B.mp4,phiên dịch
+2738,W02651T.mp4,phiên dịch
+2739,W02654B.mp4,Phi-líp-pin (nước Phi-líp-pin)
+2740,W02654N.mp4,Phi-líp-pin (nước Phi-líp-pin)
+2741,W02654T.mp4,Phi-líp-pin (nước Phi-líp-pin)
+2742,W02656B.mp4,phim hoạt hình
+2743,W02656N.mp4,phim hoạt hình
+2744,W02656T.mp4,phim hoạt hình
+2745,W02657.mp4,phim tài liệu
+2746,W02658B.mp4,phim truyện
+2747,W02658N.mp4,phim truyện
+2748,W02658T.mp4,phim truyện
+2749,W02660.mp4,phong bì
+2750,W02661.mp4,phong cách
+2751,W02662.mp4,phong kiến
+2752,W02665.mp4,phong trào
+2753,W02668.mp4,phòng bệnh
+2754,W02669.mp4,phòng chống
+2755,W02670.mp4,phòng chức năng
+2756,W02672.mp4,phòng đa năng
+2757,W02675.mp4,phòng học tin học
+2758,W02677.mp4,phòng máy tính
+2759,W02678.mp4,phòng mĩ thuật
+2760,W02680.mp4,phòng thư viện
+2761,W02682.mp4,phòng y tế
+2762,W02685.mp4,phô tô
+2763,W02686.mp4,phổ biến
+2764,W02689.mp4,phố
+2765,W02690.mp4,phố cổ
+2766,W02691.mp4,phố cổ Hội an
+2767,W02693.mp4,phổi
+2768,W02696B.mp4,phở
+2769,W02696N.mp4,phở
+2770,W02696T.mp4,phở
+2771,W02697B.mp4,phở cuốn
+2772,W02697N.mp4,phở cuốn
+2773,W02697T.mp4,phở cuốn
+2774,W02698.mp4,phơi quần áo
+2775,W02699.mp4,phù hợp
+2776,W02701.mp4,phủ nhận
+2777,W02702.mp4,Phú Thọ
+2778,W02704.mp4,phụ huynh
+2779,W02707.mp4,phục hồi
+2780,W02709.mp4,phục vụ
+2781,W02710.mp4,phun nước
+2782,W02712.mp4,phức tạp
+2783,W02713.mp4,phương hướng
+2784,W02714.mp4,phương pháp
+2785,W02715.mp4,phương tiện
+2786,W02716B.mp4,phương tiện giao thông
+2787,W02716N.mp4,phương tiện giao thông
+2788,W02716T.mp4,phương tiện giao thông
+2789,W02718.mp4,pi-a-nô (dương cầm)
+2790,W02721.mp4,quả
+2791,W02722.mp4,quả bầu
+2792,W02724B.mp4,quả bưởi
+2793,W02724T.mp4,quả bưởi
+2794,W02725.mp4,quả cam
+2795,W02728.mp4,quả chanh
+2796,W02729.mp4,quả chôm chôm
+2797,W02730.mp4,quả chuối
+2798,W02731B.mp4,quả dưa hấu
+2799,W02731N.mp4,quả dưa hấu
+2800,W02731T.mp4,quả dưa hấu
+2801,W02732B.mp4,quả dừa
+2802,W02732N.mp4,quả dừa
+2803,W02732T.mp4,quả dừa
+2804,W02733B.mp4,quả dừa xiêm
+2805,W02733N.mp4,quả dừa xiêm
+2806,W02733T.mp4,quả dừa xiêm
+2807,W02734.mp4,quả đất
+2808,W02735.mp4,quả địa cầu
+2809,W02737B.mp4,quả đu đủ
+2810,W02737N.mp4,quả đu đủ
+2811,W02737T.mp4,quả đu đủ
+2812,W02739.mp4,quả gấc
+2813,W02740.mp4,quả hồng
+2814,W02741.mp4,quả hồng xiêm
+2815,W02742B.mp4,quả khế
+2816,W02742N.mp4,quả khế
+2817,W02744.mp4,quả lê
+2818,W02745.mp4,quả mít
+2819,W02746.mp4,quả mướp
+2820,W02748B.mp4,quả nhãn
+2821,W02748N.mp4,quả nhãn
+2822,W02748T.mp4,quả nhãn
+2823,W02749.mp4,quả nho
+2824,W02750.mp4,quả ổi
+2825,W02751.mp4,quả ớt
+2826,W02752.mp4,quả quất
+2827,W02753.mp4,quả quýt
+2828,W02754N.mp4,quả roi
+2829,W02755.mp4,quả sầu riêng
+2830,W02757B.mp4,quả táo
+2831,W02757N.mp4,quả táo
+2832,W02758.mp4,quả thanh long
+2833,W02759.mp4,quả vải
+2834,W02760.mp4,quả xoài
+2835,W02761.mp4,quá cảnh
+2836,W02762.mp4,quan điểm
+2837,W02763.mp4,quan hệ
+2838,W02766.mp4,quan trọng
+2839,W02769.mp4,quang hợp
+2840,W02771.mp4,quàng khăn
+2841,W02772.mp4,Quảng Bình
+2842,W02773.mp4,quảng cáo
+2843,W02774.mp4,Quảng Ngãi
+2844,W02775.mp4,Quảng Ninh
+2845,W02776.mp4,quát mắng
+2846,W02777.mp4,quạt cây
+2847,W02778.mp4,quay cóp
+2848,W02779.mp4,quay phim
+2849,W02780.mp4,quà
+2850,W02781.mp4,Quảng Nam
+2851,W02782.mp4,Quảng Trị
+2852,W02783.mp4,quạt treo tường
+2853,W02784N.mp4,quân đội
+2854,W02786.mp4,quần âu
+2855,W02787B.mp4,quần bò
+2856,W02787N.mp4,quần bò
+2857,W02787T.mp4,quần bò
+2858,W02788.mp4,quần đùi
+2859,W02790B.mp4,quận
+2860,W02790N.mp4,quận
+2861,W02794.mp4,quét dọn
+2862,W02798.mp4,quên
+2863,W02799.mp4,quốc ca
+2864,W02800.mp4,quốc gia
+2865,W02801.mp4,quốc hội
+2866,W02802.mp4,quốc khánh
+2867,W02804.mp4,đề phòng
+2868,W02806.mp4,Trần Quốc Toản
+2869,W02807.mp4,Quốc Tử Giám
+2870,W02808.mp4,quy định
+2871,W02810.mp4,quy nạp
+2872,W02812.mp4,quý giá
+2873,W02813B.mp4,quyền lợi
+2874,W02813N.mp4,quyền lợi
+2875,W02813T.mp4,quyền lợi
+2876,W02814B.mp4,quyết định
+2877,W02814N.mp4,quyết định
+2878,W02814T.mp4,quyết định
+2879,W02815.mp4,quỳ
+2880,W02816.mp4,quý hiếm
+2881,W02818T.mp4,quyển vở
+2882,W02820B.mp4,quyết tâm
+2883,W02825B.mp4,ra ngoài
+2884,W02825T.mp4,ra ngoài
+2885,W02828.mp4,rách
+2886,W02832.mp4,rào chắn
+2887,W02833.mp4,rạp chiếu phim
+2888,W02835.mp4,rau
+2889,W02836.mp4,rau bắp cải
+2890,W02839.mp4,rau cải thảo
+2891,W02841.mp4,rau dền
+2892,W02844.mp4,rau mùng tơi
+2893,W02847B.mp4,rằm trung thu
+2894,W02847N.mp4,rằm trung thu
+2895,W02847T.mp4,rằm trung thu
+2896,W02848.mp4,răng
+2897,W02849.mp4,răng cưa
+2898,W02852.mp4,rẽ phải
+2899,W02853.mp4,rèn sắt
+2900,W02854.mp4,rèn luyện
+2901,W02855.mp4,reo hò
+2902,W02857.mp4,rễ chùm
+2903,W02858.mp4,rễ cọc
+2904,W02859.mp4,rế
+2905,W02860.mp4,riêng biệt
+2906,W02861.mp4,riêng tư
+2907,W02862.mp4,rình mò
+2908,W02863.mp4,rìu
+2909,W02864B.mp4,rõ ràng
+2910,W02864T.mp4,rõ ràng
+2911,W02865N.mp4,róc rách
+2912,W02866.mp4,rón rén
+2913,W02867.mp4,rong biển
+2914,W02868B.mp4,rong chơi
+2915,W02868N.mp4,rong chơi
+2916,W02868T.mp4,rong chơi
+2917,W02870.mp4,rổ
+2918,W02872.mp4,rộng lớn
+2919,W02873.mp4,rộng rãi
+2920,W02874.mp4,rơi
+2921,W02875.mp4,rơm
+2922,W02876.mp4,ru ngủ
+2923,W02877.mp4,rụng tóc (đt)
+2924,W02878.mp4,ruộng bậc thang
+2925,W02879.mp4,ruột già
+2926,W02883.mp4,rút gọn
+2927,W02884.mp4,rút gọn phân số
+2928,W02885.mp4,rửa bát
+2929,W02887.mp4,rửa mặt
+2930,W02888.mp4,rửa tay
+2931,W02892.mp4,rừng núi
+2932,W02893.mp4,rừng rậm
+2933,W02895.mp4,rước đèn
+2934,W02897B.mp4,rưỡi
+2935,W02897N.mp4,rưỡi
+2936,W02897T.mp4,rưỡi
+2937,W02898N.mp4,rượu
+2938,W02900.mp4,sách
+2939,W02901.mp4,sách giáo khoa
+2940,W02902.mp4,sách toán
+2941,W02903.mp4,san hô
+2942,W02906.mp4,san sẻ
+2943,W02912.mp4,sản xuất
+2944,W02915.mp4,sáng chói
+2945,W02918.mp4,sáng tạo
+2946,W02919N.mp4,sao
+2947,W02919T.mp4,sao
+2948,W02921.mp4,sao chép
+2949,W02922.mp4,đỏ thắm
+2950,W02925.mp4,Sapa
+2951,W02926.mp4,sau
+2952,W02929.mp4,săn bắn
+2953,W02931B.mp4,sắp xếp
+2954,W02931N.mp4,sắp xếp
+2955,W02931T.mp4,sắp xếp
+2956,W02932B.mp4,sắt
+2957,W02932N.mp4,sắt
+2958,W02932T.mp4,sắt
+2959,W02934.mp4,sấm chớp
+2960,W02936B.mp4,sân chơi
+2961,W02936T.mp4,sân chơi
+2962,W02938.mp4,sân nhà
+2963,W02939.mp4,sân thượng
+2964,W02940B.mp4,sân trường
+2965,W02940N.mp4,sân trường
+2966,W02941.mp4,sân vận động
+2967,W02943.mp4,sâu
+2968,W02944.mp4,sâu bọ
+2969,W02945.mp4,sâu răng
+2970,W02946.mp4,sâu thẳm
+2971,W02947B.mp4,sĩ diện
+2972,W02947N.mp4,sĩ diện
+2973,W02948.mp4,siêng năng
+2974,W02949.mp4,siêu âm
+2975,W02951.mp4,siêu thị
+2976,W02952.mp4,siêu tốc
+2977,W02953B.mp4,sinh đẻ
+2978,W02953N.mp4,sinh đẻ
+2979,W02954.mp4,sinh động
+2980,W02955.mp4,sinh hoạt
+2981,W02956B.mp4,sinh sản
+2982,W02956N.mp4,sinh sản
+2983,W02957.mp4,sinh sống
+2984,W02961.mp4,Sóc Trăng
+2985,W02962.mp4,soi
+2986,W02964.mp4,son môi
+2987,W02965.mp4,song song
+2988,W02968.mp4,sóng thần
+2989,W02970.mp4,sổ đầu bài
+2990,W02972.mp4,sổ điểm danh
+2991,W02974.mp4,sổ tay
+2992,W02975.mp4,số bé
+2993,W02979.mp4,số chẵn
+2994,W02981.mp4,số chín
+2995,W02987.mp4,số đo
+2996,W02989.mp4,số lẻ
+2997,W02990.mp4,số liền sau
+2998,W02991.mp4,số liền trước
+2999,W02996.mp4,số thập phân
+3000,W03005.mp4,sông Hồng
+3001,W03010N.mp4,sơ đồ
+3002,W03010T.mp4,sơ đồ
+3003,W03011B.mp4,sơ mi
+3004,W03011N.mp4,sơ mi
+3005,W03014.mp4,sợi
+3006,W03015.mp4,sợi chỉ
+3007,W03016.mp4,sợi dây
+3008,W03017.mp4,sợi len
+3009,W03018.mp4,sơn
+3010,W03021.mp4,súc miệng
+3011,W03023.mp4,sum họp
+3012,W03025N.mp4,suy nghĩ
+3013,W03025T.mp4,suy nghĩ
+3014,W03034.mp4,sửa chữa
+3015,W03036B.mp4,sữa bò
+3016,W03036N.mp4,sữa bò
+3017,W03036T.mp4,sữa bò
+3018,W03037B.mp4,sữa bột
+3019,W03037N.mp4,sữa bột
+3020,W03037T.mp4,sữa bột
+3021,W03038B.mp4,sữa dê
+3022,W03038N.mp4,sữa dê
+3023,W03038T.mp4,sữa dê
+3024,W03040B.mp4,sữa hộp
+3025,W03040T.mp4,sữa hộp
+3026,W03041.mp4,sữa rửa mặt
+3027,W03042B.mp4,sữa
+3028,W03042T.mp4,sữa
+3029,W03046.mp4,sừng
+3030,W03047.mp4,sừng bò
+3031,W03048.mp4,sừng trâu
+3032,W03051.mp4,sườn
+3033,W03054.mp4,tác dụng
+3034,W03055.mp4,tác động
+3035,W03058.mp4,tác phẩm
+3036,W03059.mp4,tách
+3037,W03060.mp4,tách lớp
+3038,W03061.mp4,tai
+3039,W03063.mp4,tài giỏi
+3040,W03064.mp4,tài năng
+3041,W03067.mp4,tài trợ
+3042,W03070.mp4,tái phát
+3043,W03071B.mp4,tái phạm
+3044,W03071N.mp4,tái phạm
+3045,W03073.mp4,đảo Trường Sa
+3046,W03074.mp4,tam giác
+3047,W03075.mp4,tạm biệt
+3048,W03076.mp4,đảo Hoàng Sa
+3049,W03081.mp4,tạo dáng
+3050,W03084.mp4,tát
+3051,W03085B.mp4,tàu hoả
+3052,W03085N.mp4,tàu hoả
+3053,W03085T.mp4,tàu hoả
+3054,W03086.mp4,tàu ngầm
+3055,W03088.mp4,tàu thủy
+3056,W03089.mp4,taxi
+3057,W03090.mp4,tay
+3058,W03095.mp4,tay phải
+3059,W03097.mp4,tay trái
+3060,W03100.mp4,tăm
+3061,W03103.mp4,tâm thần
+3062,W03105B.mp4,tấm vải
+3063,W03105N.mp4,tấm vải
+3064,W03112.mp4,tập làm văn
+3065,W03116B.mp4,tập thể dục
+3066,W03116T.mp4,tập thể dục
+3067,W03117.mp4,tập trung
+3068,W03121.mp4,Tây Bắc
+3069,W03123.mp4,Tây Nguyên
+3070,W03129N.mp4,tên là gì?
+3071,W03130N.mp4,tên riêng
+3072,W03132N.mp4,Tết Dương
+3073,W03132T.mp4,Tết Dương
+3074,W03133N.mp4,Tết Thiếu nhi
+3075,W03134B.mp4,Tết Trung thu
+3076,W03134T.mp4,Tết Trung thu
+3077,W03135.mp4,tha
+3078,W03138B.mp4,tha thứ
+3079,W03138N.mp4,tha thứ
+3080,W03138T.mp4,tha thứ
+3081,W03139.mp4,thả diều
+3082,W03140.mp4,thả mồi
+3083,W03141.mp4,thác
+3084,W03148B.mp4,thái độ
+3085,W03148N.mp4,thái độ
+3086,W03148T.mp4,thái độ
+3087,W03150.mp4,Thái Nguyên
+3088,W03153B.mp4,tham dự
+3089,W03153N.mp4,tham dự
+3090,W03153T.mp4,tham dự
+3091,W03155.mp4,tham lam
+3092,W03156B.mp4,tham quan
+3093,W03156T.mp4,tham quan
+3094,W03160.mp4,thám tử
+3095,W03163.mp4,thản nhiên
+3096,W03164.mp4,thán phục
+3097,W03165.mp4,cầu thang
+3098,W03167B.mp4,tháng
+3099,W03167T.mp4,tháng
+3100,W03168.mp4,Thanh Hóa
+3101,W03172.mp4,đường ray xe lửa
+3102,W03173.mp4,thành công
+3103,W03175.mp4,thành lập
+3104,W03175B.mp4,thành lập
+3105,W03175N.mp4,thành lập
+3106,W03175T.mp4,thành lập
+3107,W03180.mp4,thành thạo
+3108,W03185.mp4,thành viên
+3109,W03191.mp4,tháo gỡ
+3110,W03192.mp4,tháp
+3111,W03193.mp4,tháp Rùa
+3112,W03196.mp4,thắc mắc
+3113,W03197B.mp4,thăm hỏi
+3114,W03199.mp4,thăng bằng
+3115,W03201.mp4,thẳng hàng (Toán học)
+3116,W03202.mp4,thẳng tắp
+3117,W03203.mp4,thắng lợi
+3118,W03204B.mp4,thân cây
+3119,W03204N.mp4,thân cây
+3120,W03204T.mp4,thân cây
+3121,W03205.mp4,thân hình
+3122,W03207.mp4,thân thiết
+3123,W03208.mp4,thân thiện
+3124,W03210.mp4,thần chết
+3125,W03211N.mp4,thần kinh
+3126,W03214.mp4,thận
+3127,W03215.mp4,thấp hơn
+3128,W03219.mp4,thập thò
+3129,W03221.mp4,thật thà
+3130,W03222B.mp4,thầy cô
+3131,W03222N.mp4,thầy cô
+3132,W03222T.mp4,thầy cô
+3133,W03223.mp4,thầy cúng
+3134,W03224B.mp4,thầy giáo
+3135,W03224N.mp4,thầy giáo
+3136,W03224T.mp4,thầy giáo
+3137,W03228.mp4,theo dõi
+3138,W03229.mp4,theo đuổi
+3139,W03230.mp4,thẻ
+3140,W03237.mp4,thế hệ
+3141,W03238.mp4,tri kỉ
+3142,W03239B.mp4,thế nào?
+3143,W03239N.mp4,thế nào?
+3144,W03239T.mp4,thế nào?
+3145,W03240.mp4,thêm
+3146,W03242B.mp4,thêu
+3147,W03242N.mp4,thêu
+3148,W03243B.mp4,thi cử
+3149,W03243T.mp4,thi cử
+3150,W03248.mp4,thị lực
+3151,W03251B.mp4,thìa
+3152,W03251N.mp4,thìa
+3153,W03251T.mp4,thìa
+3154,W03252B.mp4,thích thú
+3155,W03252N.mp4,thích thú
+3156,W03252T.mp4,thích thú
+3157,W03254.mp4,thiên đình
+3158,W03256.mp4,thiên nhiên
+3159,W03258.mp4,thiên thần
+3160,W03262.mp4,thiếp đi
+3161,W03263.mp4,thiếp mời
+3162,W03265N.mp4,thiết kế
+3163,W03265T.mp4,thiết kế
+3164,W03268.mp4,thiệt thòi
+3165,W03269.mp4,thiếu nhi
+3166,W03270.mp4,thiếu niên
+3167,W03272.mp4,thím
+3168,W03278.mp4,thóc (gạo)
+3169,W03282.mp4,thổi bóng
+3170,W03283.mp4,thổi kèn
+3171,W03285.mp4,thông báo
+3172,W03286.mp4,thông cảm
+3173,W03288N.mp4,thông minh
+3174,W03288T.mp4,thông minh
+3175,W03291.mp4,thông thường
+3176,W03292N.mp4,thông tin
+3177,W03292T.mp4,thông tin
+3178,W03294.mp4,thống nhất
+3179,W03297.mp4,tuổi thơ ấu
+3180,W03299.mp4,thờ cúng
+3181,W03300.mp4,thở dài
+3182,W03303.mp4,thời gian biểu
+3183,W03305.mp4,thở
+3184,W03308.mp4,thợ rèn
+3185,W03309.mp4,thợ thêu
+3186,W03314B.mp4,thơm
+3187,W03314N.mp4,thơm
+3188,W03314T.mp4,thơm
+3189,W03316.mp4,thu mua
+3190,W03317.mp4,thu nhỏ
+3191,W03320B.mp4,thủ công
+3192,W03320N.mp4,thủ công
+3193,W03320T.mp4,thủ công
+3194,W03321B.mp4,thủ tướng
+3195,W03321N.mp4,thủ tướng
+3196,W03321T.mp4,thủ tướng
+3197,W03323B.mp4,thú dữ
+3198,W03323N.mp4,thú dữ
+3199,W03324B.mp4,thú y
+3200,W03324N.mp4,thú y
+3201,W03324T.mp4,thú y
+3202,W03327B.mp4,ngữ pháp
+3203,W03327N.mp4,ngữ pháp
+3204,W03327T.mp4,ngữ pháp
+3205,W03328.mp4,thúc đẩy
+3206,W03329N.mp4,thuê
+3207,W03330.mp4,thùng
+3208,W03331.mp4,thủng
+3209,W03333.mp4,thuốc bắc
+3210,W03335.mp4,thuốc lá
+3211,W03338.mp4,thuộc lòng
+3212,W03339N.mp4,thuỷ điện
+3213,W03339T.mp4,thuỷ điện
+3214,W03344.mp4,thủy chung
+3215,W03345B.mp4,Thủy Điện Hòa Bình
+3216,W03345N.mp4,Thủy Điện Hòa Bình
+3217,W03347.mp4,thuyền chài
+3218,W03349.mp4,thuyền rồng
+3219,W03350.mp4,trưởng thành
+3220,W03351.mp4,thuyết phục
+3221,W03352.mp4,thuyết trình
+3222,W03354.mp4,thư giãn
+3223,W03355.mp4,mục đích
+3224,W03357.mp4,thứ tự
+3225,W03359N.mp4,thừa
+3226,W03359T.mp4,thừa
+3227,W03361B.mp4,Thừa Thiên – Huế
+3228,W03361N.mp4,Thừa Thiên – Huế
+3229,W03361T.mp4,Thừa Thiên – Huế
+3230,W03365.mp4,thực hiện
+3231,W03366.mp4,thực phẩm
+3232,W03367.mp4,thực sự
+3233,W03368.mp4,thực tế
+3234,W03369.mp4,thực vật
+3235,W03370.mp4,thương (số)
+3236,W03371.mp4,bùng binh
+3237,W03373B.mp4,thương yêu
+3238,W03373N.mp4,thương yêu
+3239,W03373T.mp4,thương yêu
+3240,W03377.mp4,tỉ lệ
+3241,W03379.mp4,tỉ mỉ
+3242,W03380.mp4,tỉ số
+3243,W03381.mp4,tỉ số phần trăm
+3244,W03383.mp4,tí hon
+3245,W03387.mp4,tia nắng
+3246,W03388.mp4,tia số
+3247,W03390.mp4,tích (số)
+3248,W03391.mp4,tích cực
+3249,W03392B.mp4,tiếc
+3250,W03392N.mp4,tiếc
+3251,W03392T.mp4,tiếc
+3252,W03393.mp4,tiệc
+3253,W03394.mp4,tiêm
+3254,W03398.mp4,Tiền Giang
+3255,W03407.mp4,tiện nghi
+3256,W03409B.mp4,tiếng Anh
+3257,W03409N.mp4,tiếng Anh
+3258,W03409T.mp4,tiếng Anh
+3259,W03414.mp4,tiếng nói
+3260,W03418.mp4,tiếp theo
+3261,W03419.mp4,tiếp thu
+3262,W03421B.mp4,tiếp tục
+3263,W03421N.mp4,tiếp tục
+3264,W03422B.mp4,tiết kiệm
+3265,W03422N.mp4,tiết kiệm
+3266,W03422T.mp4,tiết kiệm
+3267,W03424.mp4,tiêu cực
+3268,W03425.mp4,tiêu diệt
+3269,W03426.mp4,tiêu hoá
+3270,W03427.mp4,thụ phấn (hoa)
+3271,W03430.mp4,tiểu học
+3272,W03431.mp4,tim
+3273,W03433B.mp4,tìm hiểu
+3274,W03433N.mp4,tìm hiểu
+3275,W03433T.mp4,tìm hiểu
+3276,W03434.mp4,tím tái
+3277,W03435.mp4,tin cậy
+3278,W03437.mp4,tin nhắn
+3279,W03438.mp4,tin tức
+3280,W03445.mp4,thần kì
+3281,W03449.mp4,tình huống
+3282,W03450B.mp4,thương yêu
+3283,W03450N.mp4,thương yêu
+3284,W03450T.mp4,thương yêu
+3285,W03451.mp4,tình yêu
+3286,W03452.mp4,tĩnh lặng
+3287,W03454.mp4,tính cách
+3288,W03455.mp4,tính chất
+3289,W03456.mp4,tính chất bằng nhau
+3290,W03457.mp4,tính chất cơ bản của phân số
+3291,W03461.mp4,tính nhẩm
+3292,W03463.mp4,tính toán
+3293,W03464.mp4,tính từ
+3294,W03466.mp4,to lớn
+3295,W03467B.mp4,tò mò
+3296,W03471B.mp4,toa xe
+3297,W03471N.mp4,toa xe
+3298,W03471T.mp4,toa xe
+3299,W03472B.mp4,toà án
+3300,W03472N.mp4,toà án
+3301,W03472T.mp4,toà án
+3302,W03473.mp4,tòa soạn
+3303,W03474.mp4,tỏa hương
+3304,W03476.mp4,toàn cầu
+3305,W03479.mp4,tóc xoăn
+3306,W03480.mp4,tóm cổ
+3307,W03481.mp4,tóm lược
+3308,W03482.mp4,tóm tắt
+3309,W03486B.mp4,tô màu
+3310,W03486N.mp4,tô màu
+3311,W03486T.mp4,tô màu
+3312,W03488.mp4,tổ chim
+3313,W03491.mp4,tôn trọng
+3314,W03492.mp4,tôn thờ
+3315,W03494.mp4,tổ tiên
+3316,W03495.mp4,tổ trưởng
+3317,W03501.mp4,tôn trọng
+3318,W03502.mp4,tổng (số)
+3319,W03503.mp4,tổng hợp
+3320,W03505B.mp4,tổng thống
+3321,W03505T.mp4,tổng thống
+3322,W03507.mp4,tống tiền
+3323,W03508B.mp4,tờ báo
+3324,W03508N.mp4,tờ báo
+3325,W03508T.mp4,tờ báo
+3326,W03509B.mp4,tờ giấy
+3327,W03509N.mp4,tờ giấy
+3328,W03509T.mp4,tờ giấy
+3329,W03512.mp4,tờ tiền
+3330,W03513.mp4,Trà Vinh
+3331,W03514.mp4,trách mắng
+3332,W03519.mp4,trang trí
+3333,W03524.mp4,trà
+3334,W03525.mp4,trả (đt)
+3335,W03526.mp4,trả lời
+3336,W03528.mp4,trách nhiệm
+3337,W03531N.mp4,trái nghĩa
+3338,W03531T.mp4,trái nghĩa
+3339,W03534.mp4,trạm xe buýt
+3340,W03535.mp4,trạm y tế
+3341,W03536.mp4,tràn ngập (nước)
+3342,W03537.mp4,trang phục
+3343,W03543.mp4,tai nạn giao thông
+3344,W03544.mp4,tránh thai
+3345,W03545.mp4,trao tặng
+3346,W03550B.mp4,trăng
+3347,W03550T.mp4,trăng
+3348,W03552B.mp4,trắng muốt
+3349,W03552N.mp4,trắng muốt
+3350,W03552T.mp4,trắng muốt
+3351,W03554.mp4,trầm trồ
+3352,W03562.mp4,trần nhà
+3353,W03568.mp4,tự (tự làm)
+3354,W03571B.mp4,tre
+3355,W03571N.mp4,tre
+3356,W03573.mp4,trêu
+3357,W03576.mp4,trí khôn
+3358,W03585.mp4,triều cường
+3359,W03587.mp4,triều đình
+3360,W03594.mp4,trình độ
+3361,W03599.mp4,trò chơi
+3362,W03602N.mp4,trọc đầu
+3363,W03602T.mp4,trọc đầu
+3364,W03603.mp4,trói tay
+3365,W03605.mp4,tròn trịa (mặt)
+3366,W03606.mp4,trong sáng
+3367,W03607.mp4,tròn
+3368,W03611B.mp4,trong ngoài
+3369,W03611N.mp4,trong ngoài
+3370,W03611T.mp4,trong ngoài
+3371,W03612.mp4,trong suốt
+3372,W03614.mp4,trọng tài
+3373,W03615.mp4,xe tải
+3374,W03619B.mp4,trốn chạy
+3375,W03619N.mp4,trốn chạy
+3376,W03619T.mp4,trốn chạy
+3377,W03620B.mp4,trông chờ
+3378,W03620N.mp4,trông chờ
+3379,W03620T.mp4,trông chờ
+3380,W03621.mp4,trông coi
+3381,W03622B.mp4,trông nom
+3382,W03622N.mp4,trông nom
+3383,W03622T.mp4,trông nom
+3384,W03624.mp4,trống
+3385,W03626.mp4,trộn (đt)
+3386,W03629.mp4,trở thành
+3387,W03632.mp4,trú mưa
+3388,W03634.mp4,trục tung
+3389,W03635.mp4,trục xuất
+3390,W03636B.mp4,trụi lá
+3391,W03636N.mp4,trụi lá
+3392,W03637.mp4,trùm chăn
+3393,W03638.mp4,trung bình
+3394,W03641.mp4,trung điểm
+3395,W03642B.mp4,Trung Quốc (nước Trung Quốc)
+3396,W03642T.mp4,Trung Quốc (nước Trung Quốc)
+3397,W03643.mp4,trung tâm
+3398,W03644.mp4,trung thành
+3399,W03645T.mp4,Trung Thu
+3400,W03646.mp4,trung ương
+3401,W03648.mp4,trúng thưởng
+3402,W03649B.mp4,trúng tuyển
+3403,W03649N.mp4,trúng tuyển
+3404,W03650.mp4,truyền dịch
+3405,W03653.mp4,truyền thông
+3406,W03654.mp4,truyền thống
+3407,W03657.mp4,trực nhật
+3408,W03659B.mp4,trứng
+3409,W03659N.mp4,trứng
+3410,W03663T.mp4,trường tiểu học
+3411,W03665.mp4,trực tiếp
+3412,W03669B.mp4,trước
+3413,W03669N.mp4,trước
+3414,W03669T.mp4,trước
+3415,W03672.mp4,trường hợp
+3416,W03673B.mp4,trường mầm non
+3417,W03673N.mp4,trường mầm non
+3418,W03674B.mp4,trường PTCS (cấp 2)
+3419,W03674N.mp4,trường PTCS (cấp 2)
+3420,W03674T.mp4,trường PTCS (cấp 2)
+3421,W03675B.mp4,trường THPT ( cấp 3)
+3422,W03675N.mp4,trường THPT ( cấp 3)
+3423,W03675T.mp4,trường THPT ( cấp 3)
+3424,W03676.mp4,trưởng nhóm
+3425,W03678.mp4,tù giam
+3426,W03682.mp4,tụ tập
+3427,W03684.mp4,tuân thủ
+3428,W03685B.mp4,tuần
+3429,W03685N.mp4,tuần
+3430,W03685T.mp4,tuần
+3431,W03689.mp4,tủi thân
+3432,W03692.mp4,túm tóc
+3433,W03696.mp4,tung tăng
+3434,W03698.mp4,tuổi thơ
+3435,W03699.mp4,tuốt lúa
+3436,W03700.mp4,tuỷ sống
+3437,W03701.mp4,tuyên bố
+3438,W03702.mp4,tuyên ngôn
+3439,W03708.mp4,tuyệt vọng
+3440,W03710.mp4,từ bỏ
+3441,W03711.mp4,từ đồng âm
+3442,W03712.mp4,từ ngữ
+3443,W03713.mp4,từ phải sang trái
+3444,W03714B.mp4,từ trái nghĩa
+3445,W03714N.mp4,từ trái nghĩa
+3446,W03714T.mp4,từ trái nghĩa
+3447,W03715.mp4,từ trái sang phải
+3448,W03717B.mp4,tự do
+3449,W03717N.mp4,tự do
+3450,W03717T.mp4,tự do
+3451,W03719N.mp4,tự lập
+3452,W03719T.mp4,tự lập
+3453,W03720B.mp4,tự tin
+3454,W03720N.mp4,tự tin
+3455,W03720T.mp4,tự tin
+3456,W03722B.mp4,tự vệ
+3457,W03722N.mp4,tự vệ
+3458,W03722T.mp4,tự vệ
+3459,W03725.mp4,tươi cười
+3460,W03727B.mp4,tưới cây
+3461,W03727N.mp4,tưới cây
+3462,W03728.mp4,nước tương (xì dầu)
+3463,W03730.mp4,tưởng
+3464,W03732.mp4,tưởng tượng
+3465,W03734.mp4,tượng
+3466,W03735.mp4,tượng đài
+3467,W03738.mp4,u ám ( trời u ám)
+3468,W03740.mp4,ung dung
+3469,W03741.mp4,ủng
+3470,W03742.mp4,ủng hộ
+3471,W03744.mp4,UNICEF
+3472,W03745.mp4,uốn
+3473,W03746.mp4,uốn cong
+3474,W03747.mp4,uốn dẻo
+3475,W03748.mp4,uốn tóc
+3476,W03749.mp4,úp
+3477,W03750.mp4,ủy ban
+3478,W037511.mp4,ủy ban nhân dân
+3479,W03751B.mp4,ủy quyền
+3480,W03758B.mp4,ưu tiên
+3481,W03758T.mp4,ưu tiên
+3482,W03759.mp4,va chạm
+3483,W03761.mp4,va li
+3484,W03765.mp4,vạch trần
+3485,W03766.mp4,vạch xuất phát
+3486,W03767.mp4,vai
+3487,W03768.mp4,vai trò
+3488,W03770.mp4,vái lạy
+3489,W03771.mp4,vái tứ phương
+3490,W03773.mp4,vạm vỡ
+3491,W03777.mp4,vàng (kim loại)
+3492,W03778.mp4,vàng bạc
+3493,W03782.mp4,vào mùa
+3494,W03784.mp4,vá xe
+3495,W03786.mp4,văn
+3496,W03787.mp4,văn bản
+3497,W03791.mp4,Văn miếu Quốc Tử Giám
+3498,W03793B.mp4,văn nghệ
+3499,W03793N.mp4,văn nghệ
+3500,W03793T.mp4,văn nghệ
+3501,W03794.mp4,vắn tắt
+3502,W03795B.mp4,vắng
+3503,W03795N.mp4,vắng
+3504,W03795T.mp4,vắng
+3505,W03799B.mp4,vấn đề
+3506,W03799N.mp4,vấn đề
+3507,W03799T.mp4,vấn đề
+3508,W03800.mp4,vận chuyển
+3509,W03801.mp4,vận động
+3510,W03804.mp4,vận tốc
+3511,W03805N.mp4,vầng trăng
+3512,W03805T.mp4,vầng trăng
+3513,W03806.mp4,vật
+3514,W03809B.mp4,vật nuôi
+3515,W03809N.mp4,vật nuôi
+3516,W03809T.mp4,vật nuôi
+3517,W03810.mp4,vây bắt
+3518,W03812.mp4,vẫy tay
+3519,W03813.mp4,vẫy vùng (cá)
+3520,W03814.mp4,vé
+3520,W03819.mp4,vệ sinh cá nhân
+3522,W03821.mp4,vết thương
+3523,W03823.mp4,vi khuẩn
+3524,W03825B.mp4,vì sao?
+3525,W03825N.mp4,vì sao?
+3526,W03825T.mp4,vì sao?
+3527,W03826.mp4,vĩ cầm
+3528,W03827.mp4,vĩ đại
+3529,W03828B.mp4,ví dụ
+3530,W03828N.mp4,ví dụ
+3531,W03828T.mp4,ví dụ
+3532,W03829.mp4,vị ngữ
+3533,W03832.mp4,vị trí
+3534,W03835.mp4,việc làm
+3535,W03840.mp4,viện bảo tàng
+3536,W03841.mp4,viện nghiên cứu
+3537,W03842.mp4,viết lia lịa
+3538,W03846.mp4,Vĩnh Long
+3539,W03847.mp4,Vĩnh Phúc
+3540,W03848.mp4,vịnh
+3541,W03849.mp4,vịnh Hạ Long
+3542,W03851.mp4,Võ Nguyên Giáp
+3543,W03852.mp4,vòi voi
+3544,W03853.mp4,vòng đeo tay
+3545,W03854.mp4,vòng quanh Trái Đất
+3546,W03856.mp4,võ thuật
+3547,W03858.mp4,vòi nước
+3548,W03859.mp4,mái vòm
+3549,W03860.mp4,vòm lá
+3550,W03861.mp4,vòng cung
+3551,W03862.mp4,vòng đời
+3552,W03863.mp4,vòng tròn
+3553,W03864.mp4,võng (cái võng)
+3554,W03866.mp4,vô lí
+3555,W03868.mp4,vô tâm
+3556,W03870.mp4,vô tư
+3557,W03871.mp4,vô ý
+3558,W03872.mp4,vô ý thức
+3559,W03873.mp4,vồ
+3560,W03875.mp4,vỗ cánh
+3561,W03876.mp4,vỗ tay
+3562,W03878.mp4,vội vã
+3563,W03882.mp4,vỡ
+3564,W03884.mp4,vớt
+3565,W03885.mp4,vũ công
+3566,W03886.mp4,vũ trụ
+3567,W03887.mp4,vua Hùng
+3568,W03888N.mp4,vui chơi
+3569,W03888T.mp4,vui chơi
+3570,W03889B.mp4,vui mừng
+3571,W03889N.mp4,vui mừng
+3572,W03889T.mp4,vui mừng
+3573,W03890B.mp4,vui sướng
+3574,W03890N.mp4,vui sướng
+3575,W03890T.mp4,vui sướng
+3576,W03892.mp4,vui tính
+3577,W03894.mp4,vun đắp
+3578,W03903.mp4,vùng vẫy (dành cho người)
+3579,W03908.mp4,hình vuông
+3580,W03909.mp4,vuốt tóc
+3581,W03911.mp4,vuông góc
+3582,W03912.mp4,vững chắc
+3583,W03917.mp4,vườn thú
+3584,W03924.mp4,vượt trội
+3585,W03925.mp4,xa cách
+3586,W03928.mp4,xa xôi
+3587,W03930B.mp4,xà phòng
+3588,W03930N.mp4,xà phòng
+3589,W03930T.mp4,xà phòng
+3590,W03931B.mp4,xà phòng giặt
+3591,W03931N.mp4,xà phòng giặt
+3592,W03931T.mp4,xà phòng giặt
+3593,W03933.mp4,xả rác
+3594,W03935B.mp4,xã hội
+3595,W03935N.mp4,xã hội
+3596,W03935T.mp4,xã hội
+3597,W03936.mp4,xách túi
+3598,W03938B.mp4,xanh xao
+3599,W03938N.mp4,xanh xao
+3600,W03938T.mp4,xanh xao
+3601,W03939.mp4,xã
+3602,W03940.mp4,xác chết
+3603,W03941.mp4,xác định
+3604,W03943.mp4,xách nặng
+3605,W03945N.mp4,cây xanh tươi
+3606,W03945T.mp4,cây xanh tươi
+3607,W03947.mp4,xăm
+3608,W03948.mp4,xăng
+3609,W03949.mp4,xăng-ti-mét (cm)
+3610,W03951.mp4,xăng-ti-mét-vuông (cm2)
+3611,W03953.mp4,xâm lược
+3612,W03956B.mp4,xây
+3613,W03956N.mp4,xây
+3614,W03956T.mp4,xây
+3615,W03958.mp4,xây nhà
+3616,W03959.mp4,xe đạp
+3617,W03960.mp4,xe ben
+3618,W03961.mp4,xe máy
+3619,W03962B.mp4,xe cảnh sát
+3620,W03962N.mp4,xe cảnh sát
+3621,W03962T.mp4,xe cảnh sát
+3622,W03964B.mp4,xe cứu hỏa
+3623,W03965.mp4,xe cứu thương
+3624,W03967B.mp4,xe khách
+3625,W03967N.mp4,xe khách
+3626,W03967T.mp4,xe khách
+3627,W03968.mp4,xe lam
+3628,W03969.mp4,xe lu
+3629,W03971.mp4,xe cẩu
+3630,W03973.mp4,xé rách
+3631,W03974.mp4,xem xét
+3632,W03975.mp4,xen
+3633,W03976.mp4,xẻng
+3634,W03978.mp4,xếp
+3635,W03979.mp4,xếp hàng
+3636,W03980.mp4,xếp hàng dọc
+3637,W03982.mp4,xếp hàng ưu tiên
+3638,W03983.mp4,xếp hình
+3639,W03986.mp4,xích đạo
+3640,W03990.mp4,xin lỗi
+3641,W03996.mp4,xoáy
+3642,W03999.mp4,xóm làng
+3643,W04000.mp4,xô
+3644,W04001.mp4,xôi
+3645,W04003.mp4,xông hơi
+3646,W04006.mp4,xu (tiền)
+3647,W04007.mp4,tóc dựng đứng
+3648,W04010B.mp4,xuất hiện
+3649,W04010N.mp4,xuất hiện
+3650,W04010T.mp4,xuất hiện
+3651,W04011.mp4,xuất khẩu
+3652,W04013.mp4,xúc xắc
+3653,W04014.mp4,xung đột
+3654,W04017.mp4,xung quanh nhà
+3655,W04019.mp4,xuống
+3656,W04023.mp4,xứ Nghệ
+3657,W04025B.mp4,xưa
+3658,W04025N.mp4,xưa
+3659,W04025T.mp4,xưa
+3660,W04028.mp4,xương rồng
+3661,W04031.mp4,Y-Éc-Xanh
+3662,W04035.mp4,ý chí
+3663,W04038N.mp4,ý nghĩa
+3664,W04038T.mp4,ý nghĩa
+3665,W04039.mp4,ý thức
+3666,W04040.mp4,ý tưởng
+3667,W04041.mp4,yếm
+3668,W04043.mp4,Yên Bái
+3669,W04046.mp4,yên lòng
+3670,W04048.mp4,yên tâm
+3671,W04056B.mp4,tôi yêu bạn
+3672,W04056N.mp4,tôi yêu bạn
+3673,W04056T.mp4,tôi yêu bạn
+3674,W04057B.mp4,yêu cầu
+3675,W04057N.mp4,yêu cầu
+3676,W04057T.mp4,yêu cầu
+3677,W04058B.mp4,yêu mến (yêu quí)
+3678,W04058N.mp4,yêu mến (yêu quí)
+3679,W04059B.mp4,yếu
+3680,W04059N.mp4,yếu
+3681,W04059T.mp4,yếu
+3682,W04060.mp4,yếu tố
+3683,W04061.mp4,công văn
+3684,W04062.mp4,vá quần áo
+3685,W04063.mp4,hoan hô
+3686,W04065.mp4,trả thù
+3687,W04066B.mp4,môn Địa lý
+3688,W04066N.mp4,môn Địa lý
+3689,W04066T.mp4,môn Địa lý
+3690,W04068.mp4,con trai
+3691,W04069.mp4,đệm
+3692,W04070.mp4,gù lưng
+3693,W04071.mp4,ai bảo
+3694,W04072.mp4,hãng ô tô

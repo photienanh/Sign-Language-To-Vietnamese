@@ -17,8 +17,8 @@ import threading
 BASE_URL = "https://qipedc.moet.gov.vn"
 chrome_driver_url = "https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win64/chromedriver-win64.zip"
 chrome_driver_path = "chromedriver-win64/chromedriver.exe"
-videos_dir = "Data/Videos"
-text_dir = "Data/Text"
+videos_dir = "Dataset/Videos"
+text_dir = "Dataset/Text"
 os.makedirs(videos_dir, exist_ok=True)  
 os.makedirs(text_dir, exist_ok=True)
 csv_path = os.path.join(text_dir, "label.csv")
@@ -86,7 +86,7 @@ def download_video(video_data):
         id = sum(1 for _ in open(csv_path, encoding='utf-8'))
         add_to_csv(id, filename, label)                  
         print(f"Completed: {filename}")
-        print(f"Updated label.csv: add {label}")
+        print(f"Updated label.csv: {label}")
 
     except Exception as e:
         print(f"Error{filename}: {str(e)}")
