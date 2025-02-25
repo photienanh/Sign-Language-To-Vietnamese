@@ -9,12 +9,11 @@ from tqdm import tqdm
 from tabulate import tabulate
 import json
 import shutil
-from colorama import init, Fore, Style
 from datetime import datetime
 import logging
 import tensorflow as tf
 import warnings
-from scipy import interpolate
+from scipy.interpolate import interp1d
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Tắt logging TensorFlow
 os.environ['MEDIAPIPE_DISABLE_GPU'] = '1'  # Tắt GPU MediaPipe (chỉ sử dụng CPU)
@@ -52,7 +51,7 @@ def mediapipe_detection(image, model):
     image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR) 
     return image, results  
 
-def extract_keypoint(results):
+def extract_keypoints(results):
     try: #lưu tọa độ 21 điểm của 1 bàn tay
         left_hand = np.array([[res.x, res.y, res.z] for res in results.left_hand_landmarks.landmark]).flatten() if results.left_hand_landmarks else np.zeros(21*3)
         right_hand = np.array([[res.x, res.y, res.z] for res in results.right_hand_landmarks.landmark]).flatten() if results.right_hand_landmarks else np.zeros(21*3)
@@ -69,10 +68,118 @@ def extract_keypoint(results):
 def convert_to_ascii(text):
     text = text.lower()
     text = text.replace('đ', 'd_')
-    text = text.unicodedata(text, 'NFD').encode('ascii', 'ignore').decode('utf-8')
+    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('utf-8')
     text = re.sub(r'[^\w\s]', '', text)
     text = text.strip()
     text = text.replace('d_', 'đ')
     return text
 
+def create_action_folder(data_path, action):
+    action_path = os.path.join(data_path, action)
+    os.makedirs(action_path, exist_ok=True)
+    return action_path
 
+def save_action_mapping(actions, log_path = 'Logs'):
+    os.makedirs(log_path, exist_ok=True)
+    mapping_file = os.path.join(log_path, 'action_mapping.json')
+    mapping = {
+        'action': {convert_to_ascii(action): action for action in actions}
+    }
+
+    with open(mapping_file, 'w') as file:
+        json.dump(mapping, file, ensure_ascii=False, indent=2)
+    print(f'Action mapping saved to {mapping_file}')
+
+def load_action_mapping(log_path = 'Logs'):
+    mapping_file = os.path.join(log_path, 'action_mapping.json')
+    try:
+        with open(mapping_file, 'r') as file:
+            mapping = json.load(file)
+        return mapping['action']
+    except FileNotFoundError:
+        print('Action mapping file not found')
+        return {}
+    except Exception as e:
+        print('Error loading action mapping file:', e)
+        return {}
+    
+def get_action_name(action_ascii, mapping=None):
+    if mapping is None:
+        mapping = load_action_mapping()
+    return mapping.get(action_ascii, action_ascii)
+
+def save_progress_state(state_data, log_path='Logs'):
+    os.makedirs(log_path, exist_ok=True)
+    state_file = os.path.join(log_path, 'progress_state.json')
+    with open(state_file, 'w', encoding='utf-8') as f:
+        json.dump(state_data, f, ensure_ascii=False, indent=2)
+
+def load_progress_state(log_path='Logs'):
+    state_file = os.path.join(log_path, 'progress_state.json')
+    try:
+        with open(state_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+    
+def interpolate_keypoints(keypoints_sequence, target_len = 60):#nội suy chuỗi keypoints về 60 frames
+    if len(keypoints_sequence) == 0:
+        return None
+
+    original_times = np.linspace(0, 1, len(keypoints_sequence))
+    target_times = np.linspace(0, 1, target_len)
+
+    num_features = keypoints_sequence[0].shape[0]
+    interpolated_sequence = np.zeros((target_len, num_features))
+    
+    for feature_idx in range(num_features):
+        feature_values = [frame[feature_idx] for frame in keypoints_sequence]
+        
+        interpolator = interp1d(
+            original_times, feature_values, 
+            kind='cubic', #nội suy cubic
+            bounds_error=False, #không báo lỗi nếu ngoài phạm vi
+            fill_value="extrapolate" #ngoại suy nếu cần
+        )
+        interpolated_sequence[:, feature_idx] = interpolator(target_times)
+    
+    return interpolated_sequence
+
+def process_video_sequence(video_path, holistic, sequence_length=60):
+    # mở video và lấy frames
+    sequence_frames = []
+    cap = cv2.VideoCapture(video_path)
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    
+    step = max(1, total_frames // 100)  # xác định bước nhảy để lấy mẫu frames
+    
+    while cap.isOpened():#đọc từng frame từ video
+        ret, frame = cap.read()
+        if not ret:
+            break
+            
+        #nếu không phải frame cần lấy mẫu thì bỏ qua
+        if int(cap.get(cv2.CAP_PROP_POS_FRAMES)) % step != 0:
+            continue
+            
+        try: 
+            image, results = mediapipe_detection(frame, holistic)#dùng mediapipe để xác định keypoints
+            keypoints = extract_keypoints(results)#trích xuất keypoints từ kết quả
+            
+            if keypoints is not None:
+                sequence_frames.append(keypoints)
+                
+        except Exception as e:
+            continue
+            
+    cap.release()
+    
+    if len(sequence_frames) < 3:  #cần ít nhất 3 frames cho nội suy cubic
+        return None
+        
+    try:
+        interpolated_sequence = interpolate_keypoints(sequence_frames, sequence_length)
+        return interpolated_sequence
+    except Exception as e: #bỏ qua video
+        print(f"Error while interpolating: {str(e)}")
+        return None
