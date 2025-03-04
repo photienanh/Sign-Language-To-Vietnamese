@@ -182,4 +182,92 @@ def process_video_sequence(video_path, holistic, sequence_length=60):
         return interpolated_sequence
     except Exception as e: #bỏ qua video
         print(f"Error while interpolating: {str(e)}")
-        return None
+        return 
+
+def collect_data_from_videos():
+    DATA_PATH = os.path.join('Data')
+    DATASET_PATH = os.path.join('Dataset')
+    LOG_PATH = os.path.join('Logs')
+
+    no_sequences = 60
+    sequence_length = 60
+
+    os.makedirs(LOG_PATH, exist_ok=True)
+    label_file = os.path.join(DATASET_PATH, 'Text', 'label.csv')
+    video_folder = os.path.join(DATASET_PATH, 'Videos')
+    df = pd.read_csv(label_file)
+
+    df_filtered = None
+    selected_actions = []
+    num_actions = 0
+    previous_state = load_progress_state(LOG_PATH)
+
+    if previous_state and os.path.exists(DATA_PATH):
+        while True:
+            print('Previous state found. Continue from previous state? (y/n): ', end='')
+            choice = input().strip().lower()
+            if choice in ['y', 'n']:
+                break
+            
+        if choice == 'y':
+            selected_actions = previous_state['selected_actions']
+            num_actions = len(selected_actions)
+            print("Continuing from previous state...")
+            df_filtered = df[df['TEXT'].isin(selected_actions)]
+
+            # Kiểm tra các hành động đã hoàn thành
+            completed_actions = []
+            for action in selected_actions:
+                if action in previous_state['progress']:
+                    if previous_state['progress'][action] >= no_sequences:
+                        completed_actions.append(action) #thu được 60 mẫu thì complete
+        
+            if completed_actions:
+                print(f"Colected {len(completed_actions)}.")
+                while True:
+                    colect_more = input("Do you want to collect more actions? (y/n): ").lower()
+                    if colect_more in ['y', 'n']:
+                        break
+                
+                if colect_more == 'y':
+                    remaining_actions = set(df['TEXT'].unique()) - set(selected_actions)
+                    if remaining_actions:
+                        while True:
+                            try:
+                                additional = int(input(f"Enter number of additional actions to collect(max {len(remaining_actions)}): "))
+                                if 1 <= additional <= len(remaining_actions):
+                                    break
+                            except ValueError:
+                                print(f"Please enter a valid number.")
+                        
+                        new_actions = np.random.choice(list(remaining_actions), additional, replace=False)
+                        selected_actions = np.concatenate([selected_actions, new_actions])
+                        num_actions = len(selected_actions)
+                        df_filtered = df[df['TEXT'].isin(selected_actions)]
+                        
+                        save_action_mapping(selected_actions, LOG_PATH)
+                        print(f"\n Completed {additional} new actions.")
+
+        else:
+            if os.path.exists(DATA_PATH):
+                shutil.rmtree(DATA_PATH)
+            previous_state = None
+
+    if df_filtered is None:
+        os.makedirs(DATA_PATH, exist_ok=True)
+        os.makedirs(LOG_PATH, exist_ok=True)
+        total_actions = len(df['TEXT'].unique())
+        while True:
+            try:
+                num_actions = int(input(f"Enter number of actions to collect (max {total_actions}): "))
+                if 1 <= num_actions <= total_actions:
+                    break
+            except ValueError:
+                print(f"Please enter a valid number.")
+        selected_actions = np.random.choice(df['TEXT'].unique(), num_actions, replace=False) 
+        df_filtered = df[df['TEXT'].isin(selected_actions)]
+        save_action_mapping(selected_actions, LOG_PATH)
+        print(f"\n Selected {num_actions} actions.")
+
+    stats = ProgressStart()
+    print(f"{datetime.now()} Start processing data...")
