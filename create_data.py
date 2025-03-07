@@ -6,7 +6,6 @@ import pandas as pd
 import unicodedata
 import re
 from tqdm import tqdm
-from tabulate import tabulate
 import json
 import shutil
 from datetime import datetime
@@ -14,12 +13,14 @@ import logging
 import warnings
 from scipy.interpolate import interp1d
 
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Tắt logging TensorFlow
 os.environ['MEDIAPIPE_DISABLE_GPU'] = '1'  # Tắt GPU MediaPipe (chỉ sử dụng CPU)
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0' # Tắt DNN Optimization
 
 logging.basicConfig(level=logging.ERROR) #Chỉ hiển thị thông báo ERROR, tránh spam WARNING, INFO
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore', category=FutureWarning)
+warnings.filterwarnings('ignore', category=DeprecationWarning)
+warnings.filterwarnings('ignore', category=UserWarning)
+
 
 class ProgressStart():
     def __init__(self):
@@ -209,78 +210,49 @@ def collect_data_from_videos():
                 break
             
         if choice == 'y':
-            selected_actions = previous_state['selected_actions']
-            num_actions = len(selected_actions)
+            remaining_actions = [action for action in previous_state['progress'] if previous_state['progress'][action] < no_sequences]
             print("Continuing from previous state...")
-            df_filtered = df[df['LABEL'].isin(selected_actions)]
-
-            # Kiểm tra các hành động đã hoàn thành
-            completed_actions = []
-            for action in selected_actions:
-                if action in previous_state['progress']:
-                    if previous_state['progress'][action] >= no_sequences:
-                        completed_actions.append(action) #thu được 60 mẫu thì complete
-        
-            if completed_actions:
-                print(f"Colected {len(completed_actions)}.")
-                while True:
-                    colect_more = input("Do you want to collect more actions? (y/n): ").lower()
-                    if colect_more in ['y', 'n']:
-                        break
-                
-                if colect_more == 'y':
-                    remaining_actions = set(df['LABEL'].unique()) - set(selected_actions)
-                    if remaining_actions:
-                        while True:
-                            try:
-                                additional = int(input(f"Enter number of additional actions to collect(max {len(remaining_actions)}): "))
-                                if 1 <= additional <= len(remaining_actions):
-                                    break
-                            except ValueError:
-                                print(f"Please enter a valid number.")
-                        
-                        new_actions = np.random.choice(list(remaining_actions), additional, replace=False)
-                        selected_actions = np.concatenate([selected_actions, new_actions])
-                        num_actions = len(selected_actions)
-                        df_filtered = df[df['LABEL'].isin(selected_actions)]
-                        
-                        save_action_mapping(selected_actions, LOG_PATH)
-                        print(f"\n Completed {additional} new actions.")
+            df_filtered = df[df['LABEL'].isin(remaining_actions)]
+            current_state = previous_state
+            print(f"Remaining actions: {len(remaining_actions)}")
 
         else:
             if os.path.exists(DATA_PATH):
                 shutil.rmtree(DATA_PATH)
+            if os.path.exists(LOG_PATH):
+                shutil.rmtree(LOG_PATH)
+            print("Previous state deleted.")
             previous_state = None
 
     if df_filtered is None:
         os.makedirs(DATA_PATH, exist_ok=True)
         os.makedirs(LOG_PATH, exist_ok=True)
-        total_actions = len(df['LABEL'].unique())
-        while True:
-            try:
-                num_actions = int(input(f"Enter number of actions to collect (max {total_actions}): "))
-                if 1 <= num_actions <= total_actions:
-                    break
-            except ValueError:
-                print(f"Please enter a valid number.")
-        selected_actions = np.random.choice(df['LABEL'].unique(), num_actions, replace=False) 
+        selected_actions = np.array(df['LABEL'].unique()) 
         df_filtered = df[df['LABEL'].isin(selected_actions)]
         save_action_mapping(selected_actions, LOG_PATH)
-        print(f"\n Selected {num_actions} actions.")
+        print(f"\n Selected {len(df['LABEL'].unique())} actions.")
+        current_state = {
+                    'selected_actions': list(selected_actions),
+                    'progress': {
+                        action: 0 for action in selected_actions
+                    }
+                }
 
     stats = ProgressStart()
     print(f"{datetime.now()} Start processing data...")
 
     with  mp_hands.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5) as holistic:
-        for action_idx, (action, group) in enumerate(tqdm(df_filtered.groupby('LABEL'), desc='Process actions'), 1):
+        for _, (action, group) in enumerate(tqdm(df_filtered.groupby('LABEL'), desc='Process actions'), 1):
+            print()
             action_ascii = convert_to_ascii(action)
             action_path = create_action_folder(DATA_PATH, action_ascii)
 
-            star_sequence = 0
-            if previous_state and action in previous_state['progress']:
-                star_sequence = previous_state['progress'][action]
+            action_position = {action: idx + 1 for idx, action in enumerate(sorted(df['LABEL'].unique()))}
+            start_sequence = 0
+            if previous_state and action in previous_state['progress'] and previous_state['progress'][action] < no_sequences:
+                start_sequence = previous_state['progress'][action]
 
-            for sequence in range(star_sequence, no_sequences):
+            for sequence in range(start_sequence, no_sequences):
                 sequence_folder = os.path.join(action_path, str(sequence))
                 os.makedirs(sequence_folder, exist_ok=True)
 
@@ -303,53 +275,17 @@ def collect_data_from_videos():
                     stats.update(success=False)
                     continue
 
-                current_state = {
-                    'selected_actions': selected_actions.tolist(),
-                    'progress': {
-                        action: sequence + 1
-                    }
-                }
-                
-                if previous_state and 'progress' in previous_state:
-                    current_state['progress'].update(previous_state['progress'])
+                current_state['progress'].update({action: sequence + 1})
                 save_progress_state(current_state, LOG_PATH)
 
                 success_rate = stats.get_success_rate()
-                print(f"Action {action_idx}/{len(df['LABEL'].unique())} : {action} - Sequence: {sequence + 1}/{no_sequences} - Sucess: {stats.total_success} - Success rate: {success_rate:.2f}% - Time: {stats.get_time()}")
+                print(f"Action {action_position[action].__index__()}/{len(df['LABEL'].unique())} : {action} - Sequence: {sequence + 1}/{no_sequences} - Time: {stats.get_time()}")
 
-    total_sequences = stats.total_success
-    total_videos = len(df)
 
     print(f"{'-'*50}\n")
-    print("Collect data result:")
-    print(f"Total sequence: {total_sequences}")
-    print(f"Success rate: {total_sequences/total_videos:.1%}")
-    print(f"Total actions: {len(df['LABEL'].unique())}")
-
-    overall_progress = {
-        'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-        'total_sequences': total_sequences,
-        'total_videos': total_videos,
-        'success_rate': float(total_sequences/total_videos),
-        'total_actions': len(df['LABEL'].unique()),
-        'processed_actions': num_actions,
-        'elapsed_time': stats.get_time(),
-        'videos_processed': stats.total_processed,
-        'sequences_success': stats.total_success,
-        'success_rate_detailed': float(stats.get_success_rate())
-    }
-
-    log_file_path = os.path.join(LOG_PATH, 'data_collection_log.json')
-    with open(log_file_path, 'w', encoding='utf-8') as log_file:
-        json.dump(overall_progress, log_file, ensure_ascii=False, indent=2)
-
-    print(f"{'-'*50}\n")
-    print(f"Total time: {stats.get_time()}")
     print(f"Total videos processed: {stats.total_processed}")
     print(f"Total sequences success: {stats.total_success}")
     print(f"Success rate detailed: {stats.get_success_rate()}%")
-
-    return stats.total_success
 
 def count_collected_data():
     count = len(next(os.walk('Data'))[1]) if os.path.exists('Data') else 0  
@@ -361,7 +297,7 @@ def main():
     print("Start collecting data...")
     if os.path.exists(os.path.join('Logs', 'progress_state.json')):
         print("Previous state founds")
-    total_sequences = collect_data_from_videos()
+    collect_data_from_videos()
     count_collected_data()
 
 if __name__ == "__main__":
