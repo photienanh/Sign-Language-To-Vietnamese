@@ -15,29 +15,21 @@ from scipy.interpolate import interp1d
 
 os.environ['MEDIAPIPE_DISABLE_GPU'] = '1'  # Tắt GPU MediaPipe (chỉ sử dụng CPU)
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0' # Tắt DNN Optimization
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Tắt thông báo tensorflow
 
+logging.getLogger().setLevel(logging.ERROR)  # Tắt tất cả log mặc định
+logging.disable(logging.CRITICAL)
 logging.basicConfig(level=logging.ERROR) #Chỉ hiển thị thông báo ERROR, tránh spam WARNING, INFO
 warnings.filterwarnings('ignore', category=FutureWarning)
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
 
-
-class ProgressStart():
+class GetTime():
     def __init__(self):
         self.starttime = datetime.now()
-        self.total_processed = 0
-        self.total_success = 0
-    
-    def update(self, success = False):
-        self.total_processed += 1
-        if success:
-            self.total_success += 1
 
     def get_time(self):
         return datetime.now() - self.starttime
-
-    def get_success_rate(self):
-        return (self.total_success / self.total_processed *100) if self.total_processed > 0 else 0
     
 mp_hands = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
@@ -238,7 +230,7 @@ def collect_data_from_videos():
                     }
                 }
 
-    stats = ProgressStart()
+    time = GetTime()
     print(f"{datetime.now()} Start processing data...")
 
     with  mp_hands.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5) as holistic:
@@ -269,23 +261,18 @@ def collect_data_from_videos():
                     for frame_idx, frame in enumerate(interpolated_sequence):
                         frame_path = os.path.join(sequence_folder, f'{frame_idx}.npy')
                         np.save(frame_path, frame)
-                    stats.update(success=True)
                 
                 else:
-                    stats.update(success=False)
                     continue
 
                 current_state['progress'].update({action: sequence + 1})
                 save_progress_state(current_state, LOG_PATH)
 
-                success_rate = stats.get_success_rate()
-                print(f"Action {action_position[action].__index__()}/{len(df['LABEL'].unique())} : {action} - Sequence: {sequence + 1}/{no_sequences} - Time: {stats.get_time()}")
+                print(f"Action {action_position[action].__index__()}/{len(df['LABEL'].unique())} : {action} - Sequence: {sequence + 1}/{no_sequences} - Time: {time.get_time()}")
 
 
     print(f"{'-'*50}\n")
-    print(f"Total videos processed: {stats.total_processed}")
-    print(f"Total sequences success: {stats.total_success}")
-    print(f"Success rate detailed: {stats.get_success_rate()}%")
+    print("DATA PROCESSING COMPLETED.")                   
 
 def count_collected_data():
     count = len(next(os.walk('Data'))[1]) if os.path.exists('Data') else 0  
