@@ -191,7 +191,6 @@ def collect_data_from_videos():
 
     df_filtered = None
     selected_actions = []
-    num_actions = 0
     previous_state = load_progress_state(LOG_PATH)
 
     if previous_state and os.path.exists(DATA_PATH):
@@ -234,7 +233,7 @@ def collect_data_from_videos():
     print(f"{datetime.now()} Start processing data...")
 
     with  mp_hands.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5) as holistic:
-        for _, (action, group) in enumerate(tqdm(df_filtered.groupby('LABEL'), desc='Process actions'), 1):
+        for action, group in tqdm(df_filtered.groupby('LABEL'), desc='Process actions'):
             print()
             action_ascii = convert_to_ascii(action)
             action_path = create_action_folder(DATA_PATH, action_ascii)
