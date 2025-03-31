@@ -137,7 +137,7 @@ def interpolate_keypoints(keypoints_sequence, target_len = 60):#nội suy chuỗ
     
     return interpolated_sequence
 
-def process_video_sequence(video_path, holistic, sequence_length=60):
+def process_video_sequence(video_path, holistic, sequence_length=40):
     # mở video và lấy frames
     sequence_frames = []
     cap = cv2.VideoCapture(video_path)
@@ -181,8 +181,8 @@ def collect_data_from_videos():
     DATASET_PATH = os.path.join('Dataset')
     LOG_PATH = os.path.join('Logs')
 
-    no_sequences = 60
-    sequence_length = 60
+    no_sequences = 10
+    sequence_length = 40
 
     os.makedirs(LOG_PATH, exist_ok=True)
     label_file = os.path.join(DATASET_PATH, 'Text', 'label.csv')
@@ -257,9 +257,9 @@ def collect_data_from_videos():
                 interpolated_sequence = process_video_sequence(video_path, holistic, sequence_length)
 
                 if interpolated_sequence is not None:
-                    for frame_idx, frame in enumerate(interpolated_sequence):
+                    for frame_idx, keypoint in enumerate(interpolated_sequence):
                         frame_path = os.path.join(sequence_folder, f'{frame_idx}.npy')
-                        np.save(frame_path, frame)
+                        np.save(frame_path, keypoint)
                 
                 else:
                     continue
