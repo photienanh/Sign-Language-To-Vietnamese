@@ -197,7 +197,7 @@ LOG_PATH = os.path.join('Logs')
 sequence_length = 60
 
 os.makedirs(LOG_PATH, exist_ok=True)
-label_file = os.path.join(DATASET_PATH, 'Text', 'final_label.csv')
+label_file = os.path.join(DATASET_PATH, 'Text', 'label.csv')
 video_folder = os.path.join(DATASET_PATH, 'Videos')
 df = pd.read_csv(label_file)
 
