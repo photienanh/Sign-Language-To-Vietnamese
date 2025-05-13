@@ -170,7 +170,7 @@ if input_mode == "🎞️ Video file":
             sequence = sequence_frames(tmp_path, holistic)
 
 elif input_mode == "📷 Webcam realtime":
-    st.warning("⚠️ Tính năng webcam cần được cài đặt thêm (OpenCV, chạy local).")
+    st.warning("Nhấn nút bên dưới để bắt đầu ghi hình từ webcam.")
     if st.button("📸 Ghi và dự đoán"):
         sequence = process_webcam_to_sequence()
 
