@@ -8,19 +8,12 @@ import numpy as np
 import os
 import mediapipe as mp
 import pandas as pd
-import unicodedata
-import re
 from tqdm import tqdm
 import json
-import shutil
 from datetime import datetime
-import logging
-import warnings
 from scipy.interpolate import interp1d
 import random
 from augment_function import inter_hand_distance, scale_keypoints_sequence,rotate_keypoints_sequence,translate_keypoints_sequence,time_stretch_keypoints_sequence,solve_2_link_ik_2d_v2
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import traceback
 
 mp_holistic = mp.solutions.holistic
 N_UPPER_BODY_POSE_LANDMARKS = 25

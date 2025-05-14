@@ -155,7 +155,7 @@ def process_webcam_to_sequence():
 
 # Streamlit App
 
-input_mode = st.radio("Chọn nguồn đầu vào:", ["🎞️ Video file", "📷 Webcam realtime"])
+input_mode = st.radio("Chọn nguồn đầu vào:", ["🎞️ Video file", "📷 Webcam"])
 
 sequence = None
 holistic =mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5)
@@ -169,7 +169,7 @@ if input_mode == "🎞️ Video file":
         if st.button("🔍 Dự đoán từ video"):
             sequence = sequence_frames(tmp_path, holistic)
 
-elif input_mode == "📷 Webcam realtime":
+elif input_mode == "📷 Webcam":
     st.warning("Nhấn nút bên dưới để bắt đầu ghi hình từ webcam.")
     if st.button("📸 Ghi và dự đoán"):
         sequence = process_webcam_to_sequence()
