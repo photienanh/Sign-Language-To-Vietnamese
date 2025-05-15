@@ -1,59 +1,72 @@
-# NHẬN DIỆN NGÔN NGỮ KÝ HIỆU VIỆT NAM
-Hệ thống nhận dạng ngôn ngữ ký hiệu tiếng Việt sử dụng kỹ thuật học sâu và thị giác máy tính, chuyên biệt cho ngôn ngữ ký hiệu Việt Nam.
-## Yêu cầu thiết bị
-- Python 3.8+
-- TensorFlow 2.x
-- Scikit-learn
-- MediaPipe
-- OpenCV
-- Streamlit
-- Yêu cầu thiết bị có webcam (nếu muốn sử dụng tính năng nhận diện qua webcam)
-## Cài đặt
-### 1. Clone và setup
+# VIETNAMESE SIGN LANGUAGE RECOGNITION
+A system for recognizing Vietnamese Sign Language using deep learning and computer vision techniques, tailored specifically for Vietnamese sign language.
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Running the Application](#running-the-application)
+  - [Training from Scratch](#training-from-scratch)
+## Overview
+The Vietnamese Sign Language Recognition system leverages deep learning models and computer vision to interpret Vietnamese sign language gestures. It uses MediaPipe for landmark detection, TensorFlow for model training, and Streamlit for a user-friendly interface. The system supports recognition through video files or live webcam feeds.
+## Features
+- Automated Video Download: Automatically downloads videos for training data.
+- Data Preprocessing: Processes and augments data for model training.
+- Sign Language Recognition: Recognizes Vietnamese sign language gestures via video or webcam input.
+- User Interface: Provides a Streamlit-based web interface for easy interaction.
+## Requirements
+- **Software**:
+    - Python 3.8 or higher
+    - TensorFlow 2.x
+    - Scikit-learn
+    - MediaPipe
+    - OpenCV
+    - Streamlit
+- **Hardware**:
+    - Webcam (required for webcam recognition)
+    - GPU (recommended for model training)
+## Installation
+### 1. Clone the repository
 ```bash
-git clone https://github.com/photienanh/Sign-Language-To-Vietnamese
-cd 'Sign Language To Vietnamese'
-# Hoặc tải file zip thông qua Github.
+git clone https://github.com/photienanh/Vietnamese-Sign-Language-Recognition
+cd Vietnamese-Sign-Language-Recognition
 ```
-### 2. Cài đặt Python và thư viện cần thiết
+Alternatively, download the ZIP file from GitHub and extract it.
+### 2. Install Dependencies
+Ensure Python is installed. If not, you can download and install it from the official [Python website](https://www.python.org/downloads/). Then, install the required libraries:
 ```bash
-# Cài đặt Python từ trang web https://www.python.org/.
-# Sau đó cài các thư viện cần thiết.
 pip install -r requirements.txt
 ```
-## Hướng dẫn sử dụng
-### 1. Sử dụng trực tiếp
-Sau khi đã cài đặt đầy đủ Python và thư viện, có thể sử dụng trực tiếp bằng lệnh:
+## Usage
+The system can be used either by running the pre-trained model or by training a new model from scratch.
+### Running the Application
+To use the pre-trained model with the Streamlit interface:
 ```bash
 streamlit run main.py
 ```
-### 2.Thiết lập lại từ đầu
-Có thể cài đăt lại mô hình từ đầu theo các bước sau.
+This launches a web interface where you can upload videos or use a webcam for sign language recognition.
+### Training from Scratch
+To train a new model, follow these steps:
+1. Clear Previous Data (optional).
 ```bash
-# Xóa toàn bộ thiết lập trước đó.
 Get-ChildItem -Path "./" -Directory | Remove-Item -Recurse -Force
 ```
-Sau đó crawl data.
+2. Download Training Data.
 ```bash
 python download_data.py
 ```
 
-Tiền xử lý dữ liệu.
+3. Process Data.
 ```bash
 python create_data_augment.py
 ```
 
-Huấn luyện mô hình
-```bash
-# Run All trên training.ipynb.
-# Nên sử dụng trên thiết bị có GPU.
-```
-
-Sau khi hoàn thành huấn luyện mô hình, có thể sử dụng mô hình để nhận diện qua giao diện ứng dụng.
+4. Train the Model.
+- Open ```training.ipynb``` in a Jupyter Notebook environment.
+- Run all cells to train the model.
+- Note: Training is computationally intensive and best performed on a GPU-enabled device.
+5. Run the Application.
 ```bash
 streamlit run main.py
 ```
-## Tính năng
-- Tự động tải xuống video.
-- Tự động xử lý dữ liệu đưa vào huấn luyện.
-- Nhận diện ngôn ngữ ký hiệu thông qua video hoặc webcam.
