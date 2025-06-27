@@ -1,5 +1,7 @@
 # VIETNAMESE SIGN LANGUAGE RECOGNITION
 A system for recognizing Vietnamese Sign Language using deep learning and computer vision techniques, tailored specifically for Vietnamese sign language.
+## Demo
+https://github.com/user-attachments/assets/c143c7f2-9a7c-4033-9c41-a196322e6b5d
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
